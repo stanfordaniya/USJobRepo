@@ -43,7 +43,7 @@ def fetch_jobs(api_key):
         for category in all_jobs:
             for location in all_jobs[category]:
                 for job_type in all_jobs[category][location]:
-                    all_jobs[category][location][job_type] = {job['MatchedObjectId']: job for job in all_jobs[category][location][job_type]}.values()
+                    all_jobs[category][location][job_type] = list({job['MatchedObjectId']: job for job in all_jobs[category][location][job_type]}.values())
 
         with open('jobs.json', 'w') as f:
             json.dump(all_jobs, f, indent=2)
