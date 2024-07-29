@@ -80,15 +80,16 @@ Welcome to the tech job listings page! Here you will find the most recent intern
             for location, job_types in locations.items():
                 location_label = "US" if location == "US" else "Non-US"
                 readme_content += f"\n### {category} Internships ({location_label})\n\n"
-                readme_content += "| Job Title | Location | Link |\n"
-                readme_content += "|-----------|----------|------|\n"
+                readme_content += "| Job Title | Locations | Link |\n"
+                readme_content += "|-----------|-----------|------|\n"
                 for job in job_types['Internships']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_location = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
-                    if isinstance(job_location, list):
-                        job_location = ", ".join([loc['LocationName'] for loc in job_location])
-                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | [Apply Here]({job_url}) |\n"
+                    job_locations = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
+                    if isinstance(job_locations, str):
+                        job_locations = [job_locations]
+                    job_locations = ", ".join(job_locations)
+                    readme_content += f"| [{job_title}]({job_url}) | {job_locations} | [Apply Here]({job_url}) |\n"
 
         readme_content += "\n## Jobs\n"
 
@@ -96,15 +97,16 @@ Welcome to the tech job listings page! Here you will find the most recent intern
             for location, job_types in locations.items():
                 location_label = "US" if location == "US" else "Non-US"
                 readme_content += f"\n### {category} Jobs ({location_label})\n\n"
-                readme_content += "| Job Title | Location | Link |\n"
-                readme_content += "|-----------|----------|------|\n"
+                readme_content += "| Job Title | Locations | Link |\n"
+                readme_content += "|-----------|-----------|------|\n"
                 for job in job_types['Jobs']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_location = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
-                    if isinstance(job_location, list):
-                        job_location = ", ".join([loc['LocationName'] for loc in job_location])
-                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | [Apply Here]({job_url}) |\n"
+                    job_locations = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
+                    if isinstance(job_locations, str):
+                        job_locations = [job_locations]
+                    job_locations = ", ".join(job_locations)
+                    readme_content += f"| [{job_title}]({job_url}) | {job_locations} | [Apply Here]({job_url}) |\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
         readme_content += f"""
@@ -113,9 +115,6 @@ Welcome to the tech job listings page! Here you will find the most recent intern
 - Ensure your resume and cover letter are updated.
 
 *Last Updated: {current_time} UTC*
-
-### Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
 
 ![Tech Jobs](https://via.placeholder.com/728x90.png)
 """
