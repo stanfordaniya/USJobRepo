@@ -26,7 +26,6 @@ def fetch_jobs(api_key):
             for keyword in keywords:
                 params = {
                     "Keyword": keyword,
-                    "LocationName": "United States"
                 }
                 print(f"Sending request to USA Jobs API for keyword: {keyword}...")
                 response = requests.get(url, headers=headers, params=params)
