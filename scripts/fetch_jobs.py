@@ -85,11 +85,9 @@ Welcome to the tech job listings page! Here you will find the most recent intern
                 for job in job_types['Internships']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_locations = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
-                    if isinstance(job_locations, str):
-                        job_locations = [job_locations]
-                    job_locations = ", ".join(job_locations)
-                    readme_content += f"| [{job_title}]({job_url}) | {job_locations} | [Apply Here]({job_url}) |\n"
+                    job_locations = [loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocation']]
+                    job_locations_str = ", ".join(job_locations)
+                    readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"
 
         readme_content += "\n## Jobs\n"
 
@@ -102,11 +100,9 @@ Welcome to the tech job listings page! Here you will find the most recent intern
                 for job in job_types['Jobs']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_locations = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
-                    if isinstance(job_locations, str):
-                        job_locations = [job_locations]
-                    job_locations = ", ".join(job_locations)
-                    readme_content += f"| [{job_title}]({job_url}) | {job_locations} | [Apply Here]({job_url}) |\n"
+                    job_locations = [loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocation']]
+                    job_locations_str = ", ".join(job_locations)
+                    readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
         readme_content += f"""
