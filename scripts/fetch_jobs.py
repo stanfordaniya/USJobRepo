@@ -81,8 +81,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
                 for job in jobs:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_locations = [loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocation']]
-                    job_locations_str = ", ".join(job_locations)
+                    job_locations = job['MatchedObjectDescriptor']['PositionLocation']
+                    job_locations_str = "Multiple locations" if len(job_locations) > 1 else job_locations[0]['LocationName']
                     readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
@@ -92,8 +92,6 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 - Ensure your resume and cover letter are updated.
 
 *Last Updated: {current_time} UTC*
-
-![Tech Jobs](https://via.placeholder.com/728x90.png)
 """
         print("README content generated successfully.")
 
