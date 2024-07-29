@@ -45,7 +45,7 @@ def fetch_jobs(api_key):
                 for job_type in all_jobs[category][location]:
                     all_jobs[category][location][job_type] = list({job['MatchedObjectId']: job for job in all_jobs[category][location][job_type]}.values())
 
-        with open('jobs.json', 'w') as f:
+        with open('jobs.json', 'w', encoding='utf-8') as f:
             json.dump(all_jobs, f, indent=2)
         print("jobs.json file updated successfully.")
 
@@ -85,7 +85,9 @@ Welcome to the tech job listings page! Here you will find the most recent intern
                 for job in job_types['Internships']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_location = ", ".join([loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocationDisplay']])
+                    job_location = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
+                    if isinstance(job_location, list):
+                        job_location = ", ".join([loc['LocationName'] for loc in job_location])
                     readme_content += f"| [{job_title}]({job_url}) | {job_location} | [Apply Here]({job_url}) |\n"
 
         readme_content += "\n## Jobs\n"
@@ -99,7 +101,9 @@ Welcome to the tech job listings page! Here you will find the most recent intern
                 for job in job_types['Jobs']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_location = ", ".join([loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocationDisplay']])
+                    job_location = job['MatchedObjectDescriptor'].get('PositionLocationDisplay', 'N/A')
+                    if isinstance(job_location, list):
+                        job_location = ", ".join([loc['LocationName'] for loc in job_location])
                     readme_content += f"| [{job_title}]({job_url}) | {job_location} | [Apply Here]({job_url}) |\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
@@ -117,7 +121,7 @@ For any inquiries, please contact [your-email@example.com](mailto:your-email@exa
 """
         print("README content generated successfully.")
 
-        with open('README.md', 'w') as f:
+        with open('README.md', 'w', encoding='utf-8') as f:
             f.write(readme_content)
         print("README.md file updated successfully.")
     except KeyError as e:
