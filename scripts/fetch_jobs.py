@@ -20,7 +20,7 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: {"US": {"Internships": [], "Jobs": []}, "Non-US": {"Internships": [], "Jobs": []}} for category in categories}
+        all_jobs = {category: {"US": [], "Non-US": []} for category in categories}
 
         for category, keywords in categories.items():
             for keyword in keywords:
@@ -36,14 +36,12 @@ def fetch_jobs(api_key):
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
                     job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
-                    job_type = "Internships" if "intern" in job['MatchedObjectDescriptor']['PositionTitle'].lower() else "Jobs"
-                    all_jobs[category][job_location][job_type].append(job)
+                    all_jobs[category][job_location].append(job)
 
         # Remove duplicate jobs by Position ID
         for category in all_jobs:
             for location in all_jobs[category]:
-                for job_type in all_jobs[category][location]:
-                    all_jobs[category][location][job_type] = list({job['MatchedObjectId']: job for job in all_jobs[category][location][job_type]}.values())
+                all_jobs[category][location] = list({job['MatchedObjectId']: job for job in all_jobs[category][location]}.values())
 
         with open('jobs.json', 'w', encoding='utf-8') as f:
             json.dump(all_jobs, f, indent=2)
@@ -66,38 +64,22 @@ def update_readme(all_jobs):
         readme_content = """
 # 🖥️ Latest Tech Job Listings
 
-Welcome to the tech job listings page! Here you will find the most recent internships and job opportunities in the tech industry.
+Welcome to the tech job listings page! Here you will find the most recent job opportunities in the tech industry.
 
 ## Table of Contents
-- [Internships](#internships)
 - [Jobs](#jobs)
 - [How to Apply](#how-to-apply)
 
-## Internships
+## Jobs
 """
 
         for category, locations in all_jobs.items():
-            for location, job_types in locations.items():
-                location_label = "US" if location == "US" else "Non-US"
-                readme_content += f"\n### {category} Internships ({location_label})\n\n"
-                readme_content += "| Job Title | Locations | Link |\n"
-                readme_content += "|-----------|-----------|------|\n"
-                for job in job_types['Internships']:
-                    job_title = job['MatchedObjectDescriptor']['PositionTitle']
-                    job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    job_locations = [loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocation']]
-                    job_locations_str = ", ".join(job_locations)
-                    readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"
-
-        readme_content += "\n## Jobs\n"
-
-        for category, locations in all_jobs.items():
-            for location, job_types in locations.items():
+            for location, jobs in locations.items():
                 location_label = "US" if location == "US" else "Non-US"
                 readme_content += f"\n### {category} Jobs ({location_label})\n\n"
                 readme_content += "| Job Title | Locations | Link |\n"
                 readme_content += "|-----------|-----------|------|\n"
-                for job in job_types['Jobs']:
+                for job in jobs:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
                     job_locations = [loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocation']]
