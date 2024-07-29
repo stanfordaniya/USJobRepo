@@ -20,7 +20,7 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: {"US": [], "Non-US": []} for category in categories}
+        all_jobs = {category: {"US": {"Internships": [], "Jobs": []}, "Non-US": {"Internships": [], "Jobs": []}} for category in categories}
 
         for category, keywords in categories.items():
             for keyword in keywords:
@@ -35,15 +35,15 @@ def fetch_jobs(api_key):
                 jobs = response.json()
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
-                    if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']):
-                        all_jobs[category]["US"].append(job)
-                    else:
-                        all_jobs[category]["Non-US"].append(job)
+                    job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
+                    job_type = "Internships" if "intern" in job['MatchedObjectDescriptor']['PositionTitle'].lower() else "Jobs"
+                    all_jobs[category][job_location][job_type].append(job)
 
         # Remove duplicate jobs by Position ID
         for category in all_jobs:
-            all_jobs[category]["US"] = {job['MatchedObjectId']: job for job in all_jobs[category]["US"]}.values()
-            all_jobs[category]["Non-US"] = {job['MatchedObjectId']: job for job in all_jobs[category]["Non-US"]}.values()
+            for location in all_jobs[category]:
+                for job_type in all_jobs[category][location]:
+                    all_jobs[category][location][job_type] = {job['MatchedObjectId']: job for job in all_jobs[category][location][job_type]}.values()
 
         with open('jobs.json', 'w') as f:
             json.dump(all_jobs, f, indent=2)
@@ -69,35 +69,40 @@ def update_readme(all_jobs):
 Welcome to the tech job listings page! Here you will find the most recent internships and job opportunities in the tech industry.
 
 ## Table of Contents
-"""
-        for category in categories:
-            readme_content += f"- [{category} Jobs in the US](#{category.lower()}-jobs-in-the-us)\n"
-            readme_content += f"- [{category} Jobs outside the US](#{category.lower()}-jobs-outside-the-us)\n"
-        readme_content += "\n"
+- [Internships](#internships)
+- [Jobs](#jobs)
+- [How to Apply](#how-to-apply)
 
-        current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+## Internships
+"""
+
         for category, locations in all_jobs.items():
-            for location, jobs in locations.items():
-                location_label = "US" if location == "US" else "outside the US"
-                readme_content += f"## {category} Jobs {location_label}\n\n"
-                readme_content += "| Job Title | Location | Apply By | End Date | Link |\n"
-                readme_content += "|-----------|----------|----------|----------|------|\n"
-                for job in jobs:
+            for location, job_types in locations.items():
+                location_label = "US" if location == "US" else "Non-US"
+                readme_content += f"\n### {category} Internships ({location_label})\n\n"
+                readme_content += "| Job Title | Location | Link |\n"
+                readme_content += "|-----------|----------|------|\n"
+                for job in job_types['Internships']:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
-                    position_location_display = job['MatchedObjectDescriptor']['PositionLocationDisplay']
-                    apply_by = job['MatchedObjectDescriptor']['ApplicationCloseDate']
-                    end_date = job.get('MatchedObjectDescriptor', {}).get('JobEndDate', 'N/A')
+                    job_location = ", ".join([loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocationDisplay']])
+                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | [Apply Here]({job_url}) |\n"
 
-                    if isinstance(position_location_display, list):
-                        job_location = ", ".join([loc['LocationName'] for loc in position_location_display])
-                    else:
-                        job_location = position_location_display
+        readme_content += "\n## Jobs\n"
 
-                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | {apply_by} | {end_date} | [Apply Here]({job_url}) |\n"
+        for category, locations in all_jobs.items():
+            for location, job_types in locations.items():
+                location_label = "US" if location == "US" else "Non-US"
+                readme_content += f"\n### {category} Jobs ({location_label})\n\n"
+                readme_content += "| Job Title | Location | Link |\n"
+                readme_content += "|-----------|----------|------|\n"
+                for job in job_types['Jobs']:
+                    job_title = job['MatchedObjectDescriptor']['PositionTitle']
+                    job_url = job['MatchedObjectDescriptor']['PositionURI']
+                    job_location = ", ".join([loc['LocationName'] for loc in job['MatchedObjectDescriptor']['PositionLocationDisplay']])
+                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | [Apply Here]({job_url}) |\n"
 
-                readme_content += "\n"
-
+        current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
         readme_content += f"""
 ## How to Apply
 - Click on the job title link to view more details and apply.
