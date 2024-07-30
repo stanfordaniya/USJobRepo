@@ -65,7 +65,7 @@ def fetch_jobs(api_key):
 def update_readme(all_jobs):
     try:
         readme_content = """
-# 🖥️ USAJobs Tech: IT, Cybersecurity, Data Science, etc.
+# 🖥️ USAJobs: IT, Cybersecurity, Data Science, etc.
 
 Welcome to the USAJobs listings page! Here you will find the most recent federal government jobs.
 
