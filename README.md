@@ -32,9 +32,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT Program Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/800364700) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800364700) |
 | [IT Specialist (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/799927600) | Montgomery County, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799927600) |
 | [IT Specialist (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/799928000) | Montgomery County, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799928000) |
-| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801989300) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801989300) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801989400) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801989400) |
+| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) |
 | [Information Technology (IT) Specialist (Information Security)](https://www.usajobs.gov:443/GetJob/ViewDetails/801167400) | Redstone Arsenal, Alabama | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801167400) |
 | [IT Specialist (APPSW/INET)](https://www.usajobs.gov:443/GetJob/ViewDetails/801941500) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801941500) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/801433700) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801433700) |
@@ -47,9 +47,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/792136500) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792136500) |
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/793160700) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/793160700) |
 | [Information Technology Specialist (CUSTSUP)](https://www.usajobs.gov:443/GetJob/ViewDetails/795004000) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795004000) |
+| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) |
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/794319700) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794319700) |
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/794319900) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794319900) |
-| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/795015900) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795015900) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/794114800) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794114800) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/794338600) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794338600) |
@@ -296,8 +296,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [ENGINEERING TECHNICIAN](https://www.usajobs.gov:443/GetJob/ViewDetails/788205300) | Naval Station Complex, San Diego, California | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/788205300) |
 | [ENGINEERING TECHNICIAN](https://www.usajobs.gov:443/GetJob/ViewDetails/799935900) | Great Lakes Naval Training Center, Illinois | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799935900) |
 | [ENGINEERING TECHNICIAN (CIVIL)](https://www.usajobs.gov:443/GetJob/ViewDetails/801726800) | Kansas City, Missouri | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801726800) |
-| [LEAD ELECTRICAL ENGINEERING TECHNICIAN (CIVIL)](https://www.usajobs.gov:443/GetJob/ViewDetails/800058400) | Bremerton, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800058400) |
 | [Engineering Technician (Civil)](https://www.usajobs.gov:443/GetJob/ViewDetails/801623600) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801623600) |
+| [LEAD ELECTRICAL ENGINEERING TECHNICIAN (CIVIL)](https://www.usajobs.gov:443/GetJob/ViewDetails/800058400) | Bremerton, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800058400) |
 | [SUPERVISORY ENGINEERING TECHNICIAN](https://www.usajobs.gov:443/GetJob/ViewDetails/801941300) | Kaneohe, Hawaii | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801941300) |
 | [Engineering Technician](https://www.usajobs.gov:443/GetJob/ViewDetails/801197600) | Finegayan, Guam | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801197600) |
 | [ENGINEERING EQUIPMENT OPERATOR](https://www.usajobs.gov:443/GetJob/ViewDetails/797922300) | Dahlgren, Virginia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/797922300) |
@@ -592,4 +592,4 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2024-07-30 22:48:37 UTC*
+*Last Updated: 2024-07-30 22:50:23 UTC*
