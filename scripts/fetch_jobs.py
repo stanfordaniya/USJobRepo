@@ -80,14 +80,14 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
             for location, jobs in locations.items():
                 location_label = "in the US" if location == "US" else "outside the US"
                 readme_content += f"## {category} Jobs {location_label}\n\n"
-                readme_content += "| Job Title | Location | Apply By | End Date | Link |\n"
-                readme_content += "|-----------|----------|----------|----------|------|\n"
+                readme_content += "| Job Title | Location | Apply By | Link |\n"
+                readme_content += "|-----------|----------|----------|------|\n"
                 for job in jobs:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
                     position_location_display = job['MatchedObjectDescriptor']['PositionLocationDisplay']
                     apply_by = job['MatchedObjectDescriptor']['ApplicationCloseDate']
-                    end_date = job.get('MatchedObjectDescriptor', {}).get('JobEndDate', 'N/A')
+                   
 
                     if isinstance(position_location_display, list):
                         job_location = ", ".join([loc['LocationName'] for loc in position_location_display])
