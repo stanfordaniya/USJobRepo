@@ -94,7 +94,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
                     else:
                         job_location = position_location_display
 
-                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | {apply_by} | {end_date} | [Apply Here]({job_url}) |\n"
+                    readme_content += f"| [{job_title}]({job_url}) | {job_location} | {apply_by} | [Apply Here]({job_url}) |\n"
 
                 readme_content += "\n"
 
