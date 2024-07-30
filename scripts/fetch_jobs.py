@@ -1,7 +1,7 @@
-import requests  # Import the requests library to handle HTTP requests
-import json  # Import the json library to handle JSON data
-import os  # Import the os library to handle environment variables
-from datetime import datetime  # Import datetime to handle date and time
+import requests
+import json
+import os
+from datetime import datetime
 
 # Define job categories and their keywords
 categories = {
@@ -15,55 +15,52 @@ categories = {
 
 def fetch_jobs(api_key):
     try:
-        url = "https://data.usajobs.gov/api/search"  # Base URL for the USA Jobs API
+        url = "https://data.usajobs.gov/api/search"
         headers = {
-            "Authorization-Key": api_key,  # API key for authorization
-            "User-Agent": "your-email@example.com"  # User agent header
+            "Authorization-Key": api_key,
+            "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: {"US": [], "Non-US": []} for category in categories}  # Initialize dictionary to store jobs
-        unique_jobs = set()  # Set to store unique job identifiers
+        all_jobs = {category: {"US": [], "Non-US": []} for category in categories}
+        unique_jobs = set()
 
-        # Iterate through each category and its keywords
         for category, keywords in categories.items():
             for keyword in keywords:
                 params = {
-                    "Keyword": keyword,  # Keyword to search for jobs
+                    "Keyword": keyword,
                 }
-                print(f"Sending request to USA Jobs API for keyword: {keyword}...")  # Log the keyword being searched
-                response = requests.get(url, headers=headers, params=params)  # Send the GET request to the API
-                response.raise_for_status()  # Raise an error for bad status codes
-                print("Request successful. Processing response...")  # Log successful request
-                jobs = response.json()  # Parse the JSON response
-                print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")  # Log the number of jobs fetched
+                print(f"Sending request to USA Jobs API for keyword: {keyword}...")
+                response = requests.get(url, headers=headers, params=params)
+                response.raise_for_status()
+                print("Request successful. Processing response...")
+                jobs = response.json()
+                print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
-                    job_id = job['MatchedObjectId']  # Get the unique job ID
-                    job_title = job['MatchedObjectDescriptor']['PositionTitle']  # Get job title
-                    job_url = job['MatchedObjectDescriptor']['PositionURI']  # Get job URL
-                    job_locations = job['MatchedObjectDescriptor']['PositionLocation']  # Get job locations
-                    job_location_str = "Multiple Locations" if len(job_locations) > 1 else job_locations[0]['LocationName']  # Determine if the job has multiple locations
-                    unique_job_key = (job_title, job_location_str, job_url)  # Create a unique key for the job
+                    job_id = job['MatchedObjectId']
+                    job_title = job['MatchedObjectDescriptor']['PositionTitle']
+                    job_url = job['MatchedObjectDescriptor']['PositionURI']
+                    job_locations = job['MatchedObjectDescriptor']['PositionLocation']
+                    job_location_str = "Multiple Locations" if len(job_locations) > 1 else job_locations[0]['LocationName']
+                    unique_job_key = (job_title, job_location_str, job_url)
 
-                    if unique_job_key not in unique_jobs:  # Check if job key is unique
-                        unique_jobs.add(unique_job_key)  # Add job key to the set
-                        # Check if the job is located in the US or Non-US
+                    if unique_job_key not in unique_jobs:
+                        unique_jobs.add(unique_job_key)
                         job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
-                        all_jobs[category][job_location].append(job)  # Append job to the appropriate category and location
+                        all_jobs[category][job_location].append(job)
 
-        # Save all jobs to jobs.json file
         with open('jobs.json', 'w', encoding='utf-8') as f:
-            json.dump(all_jobs, f, indent=2)  # Write JSON data to file
-        print("jobs.json file updated successfully.")  # Log successful update
+            json.dump(all_jobs, f, indent=2)
+        print("jobs.json file updated successfully.")
 
-        update_readme(all_jobs)  # Call function to update README
+        update_readme(all_jobs)
 
     except requests.RequestException as e:
-        print(f"Request error: {e}")  # Log request error
+        print(f"Request error: {e}")
         raise
     except json.JSONDecodeError as e:
-        print(f"JSON decode error: {e}")  # Log JSON decode error
+        print(f"JSON decode error: {e}")
         raise
     except Exception as e:
-        print(f"An error occurred: {e}")  # Log any other errors
+        print(f"An error occurred: {e}")
         raise
 
 def update_readme(all_jobs):
@@ -78,47 +75,44 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 - [How to Apply](#how-to-apply)
 
 ## Jobs
-"""  # Initialize README content
+"""
 
-        # Iterate through categories and locations to build the README content
         for category, locations in all_jobs.items():
             for location, jobs in locations.items():
-                location_label = "US" if location == "US" else "Non-US"  # Set location label
-                readme_content += f"\n### {category} Jobs ({location_label})\n\n"  # Add category and location to README
-                readme_content += "| Job Title | Locations | Link |\n"  # Add table headers
-                readme_content += "|-----------|-----------|------|\n"  # Add table headers
+                location_label = "US" if location == "US" else "Non-US"
+                readme_content += f"\n### {category} Jobs ({location_label})\n\n"
+                readme_content += "| Job Title | Locations | Link |\n"
+                readme_content += "|-----------|-----------|------|\n"
                 for job in jobs:
-                    job_title = job['MatchedObjectDescriptor']['PositionTitle']  # Get job title
-                    job_url = job['MatchedObjectDescriptor']['PositionURI']  # Get job URL
-                    job_locations = job['MatchedObjectDescriptor']['PositionLocation']  # Get job locations
-                    # Check if job has multiple locations and set job_locations_str accordingly
+                    job_title = job['MatchedObjectDescriptor']['PositionTitle']
+                    job_url = job['MatchedObjectDescriptor']['PositionURI']
+                    job_locations = job['MatchedObjectDescriptor']['PositionLocation']
                     job_locations_str = "Multiple Locations" if len(job_locations) > 1 else job_locations[0]['LocationName']
-                    readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"  # Add job details to table
+                    readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"
 
-        current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')  # Get current time in UTC
+        current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
         readme_content += f"""
 ## How to Apply
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
 *Last Updated: {current_time} UTC*
-"""  # Add how to apply section and last updated time
-        print("README content generated successfully.")  # Log successful generation
+"""
+        print("README content generated successfully.")
 
-        # Write README content to README.md file
         with open('README.md', 'w', encoding='utf-8') as f:
-            f.write(readme_content)  # Write content to file
-        print("README.md file updated successfully.")  # Log successful update
+            f.write(readme_content)
+        print("README.md file updated successfully.")
     except KeyError as e:
-        print(f"Key error: {e}")  # Log key error
+        print(f"Key error: {e}")
         raise
     except Exception as e:
-        print(f"An error occurred while updating the README: {e}")  # Log any other errors
+        print(f"An error occurred while updating the README: {e}")
         raise
 
 if __name__ == "__main__":
-    api_key = os.getenv("USAJOBS_API_KEY")  # Get API key from environment variables
+    api_key = os.getenv("USAJOBS_API_KEY")
     if not api_key:
-        print("API key is not set")  # Log if API key is not set
-        exit(1)  # Exit if API key is not set
-    fetch_jobs(api_key)  # Call function to fetch jobs
+        print("API key is not set")
+        exit(1)
+    fetch_jobs(api_key)
