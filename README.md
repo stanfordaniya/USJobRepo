@@ -32,8 +32,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [IT Specialist (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/799927600) | Montgomery County, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799927600) |
 | [IT Specialist (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/799928000) | Montgomery County, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799928000) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801989300) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801989300) |
-| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801989400) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801989400) |
+| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/793254200) |
 | [IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/799272100) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799272100) |
 | [Information Technology (IT) Specialist (Information Security)](https://www.usajobs.gov:443/GetJob/ViewDetails/801167400) | Redstone Arsenal, Alabama | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801167400) |
 | [Supervisory Information Technology Spec (CUSTSPT) NF-04](https://www.usajobs.gov:443/GetJob/ViewDetails/799918300) | Fort Knox, Kentucky | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799918300) |
@@ -334,8 +334,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [GENERAL ENGINEER- DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/GetJob/ViewDetails/801254100) | Hill AFB, Utah | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801254100) |
 | [Interdisciplinary Engineer/Architect](https://www.usajobs.gov:443/GetJob/ViewDetails/801283700) | Fort Dix, New Jersey | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801283700) |
 | [CIVIL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/801168400) | Bangor, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801168400) |
-| [General Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/801716200) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801716200) |
 | [FLIGHT SCIENCES TECHNICAL EXPERT (GENERAL ENGINEER)-DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/GetJob/ViewDetails/800394300) | Edwards AFB, California | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800394300) |
+| [General Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/801716200) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801716200) |
 | [Healthcare Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/768478300) | Manchester, New Hampshire | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/768478300) |
 | [MECHANICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/801377600) | Seattle, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801377600) |
 | [MECHANICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/796641800) | Zama, Camp Zama, Japan | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/796641800) |
@@ -368,9 +368,9 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/791755400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/791755400) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228300) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228300) |
 | [Lead Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/788422000) | Baltimore, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/788422000) |
+| [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) |
 | [Electrical Engineer (Controls)](https://www.usajobs.gov:443/GetJob/ViewDetails/801963400) | Lakewood, Colorado | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801963400) |
 | [Electrical Engineer (Controls)](https://www.usajobs.gov:443/GetJob/ViewDetails/801967000) | Lakewood, Colorado | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801967000) |
-| [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800074500) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800074500) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800074700) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800074700) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/756798600) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/756798600) |
@@ -517,8 +517,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [Associate Chief Information Officer (ACIO) Digital Services](https://www.usajobs.gov:443/GetJob/ViewDetails/801034800) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801034800) |
 | [Instructional Systems Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800279000) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800279000) |
 | [Instructional Systems Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800279400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800279400) |
-| [SUPERVISORY FACILITY PLANS AND PROGRAMS MANAGEMENT SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/799816600) | Fort Richardson, Alaska | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799816600) |
 | [IT Specialist (INET)](https://www.usajobs.gov:443/GetJob/ViewDetails/801878200) | New Orleans, Louisiana | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801878200) |
+| [SUPERVISORY FACILITY PLANS AND PROGRAMS MANAGEMENT SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/799816600) | Fort Richardson, Alaska | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799816600) |
 | [Facility Management Systems Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801917200) | Homestead, Florida | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801917200) |
 | [Marketing & Outreach Specialist (Publications Coordinator)](https://www.usajobs.gov:443/GetJob/ViewDetails/800738300) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800738300) |
 | [Marketing & Outreach Specialist (Publications Coordinator)](https://www.usajobs.gov:443/GetJob/ViewDetails/800738700) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800738700) |
@@ -552,9 +552,9 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [Health Technician](https://www.usajobs.gov:443/GetJob/ViewDetails/801360800) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801360800) |
 | [Licensed Professional Mental Health Counselor- Outpatient](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) | Alexandria, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) |
 | [Physician - General Surgeon (Recruitment Incentive)](https://www.usajobs.gov:443/GetJob/ViewDetails/786092300) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/786092300) |
-| [Licensed Professional Mental Health Counselor- Healthcare for Homeless Veterans Program](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800627200) | Fort Belvoir, Virginia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800627200) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800627500) | Fort Belvoir, Virginia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800627500) |
+| [Licensed Professional Mental Health Counselor- Healthcare for Homeless Veterans Program](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) |
 | [Social Worker- Outpatient Mental Health-IC](https://www.usajobs.gov:443/GetJob/ViewDetails/779800100) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/779800100) |
 | [Social Worker-Mental Health Residential Rehabilitation Treatment Program](https://www.usajobs.gov:443/GetJob/ViewDetails/796800200) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/796800200) |
 | [Mental Health Medical Director / Physician - Psychiatrist (Recruitment Incentive)](https://www.usajobs.gov:443/GetJob/ViewDetails/800934100) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800934100) |
@@ -594,4 +594,4 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2024-07-30 00:36:54 UTC*
+*Last Updated: 2024-07-30 00:40:24 UTC*

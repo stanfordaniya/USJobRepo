@@ -21,7 +21,7 @@ def fetch_jobs(api_key):
             "User-Agent": "your-email@example.com"  # User agent header
         }
         all_jobs = {category: {"US": [], "Non-US": []} for category in categories}  # Initialize dictionary to store jobs
-        unique_job_ids = set()  # Set to store unique job IDs
+        unique_jobs = set()  # Set to store unique job identifiers
 
         # Iterate through each category and its keywords
         for category, keywords in categories.items():
@@ -37,8 +37,8 @@ def fetch_jobs(api_key):
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")  # Log the number of jobs fetched
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
                     job_id = job['MatchedObjectId']  # Get the unique job ID
-                    if job_id not in unique_job_ids:  # Check if job ID is unique
-                        unique_job_ids.add(job_id)  # Add job ID to the set
+                    if job_id not in unique_jobs:  # Check if job ID is unique
+                        unique_jobs.add(job_id)  # Add job ID to the set
                         # Check if the job is located in the US or Non-US
                         job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
                         all_jobs[category][job_location].append(job)  # Append job to the appropriate category and location
