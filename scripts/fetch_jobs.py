@@ -65,9 +65,9 @@ def fetch_jobs(api_key):
 def update_readme(all_jobs):
     try:
         readme_content = """
-# 🖥️ Latest Tech Job Listings
+# 🖥️ USAJobs Tech: IT, Cybersecurity, Data Science, etc.
 
-Welcome to the tech job listings page! Here you will find the most recent job opportunities in the tech industry.
+Welcome to the USAJobs listings page! Here you will find the most recent federal government jobs.
 
 ## Table of Contents
 - [Jobs](#jobs)
