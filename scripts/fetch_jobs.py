@@ -37,8 +37,14 @@ def fetch_jobs(api_key):
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")  # Log the number of jobs fetched
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
                     job_id = job['MatchedObjectId']  # Get the unique job ID
-                    if job_id not in unique_jobs:  # Check if job ID is unique
-                        unique_jobs.add(job_id)  # Add job ID to the set
+                    job_title = job['MatchedObjectDescriptor']['PositionTitle']  # Get job title
+                    job_url = job['MatchedObjectDescriptor']['PositionURI']  # Get job URL
+                    job_locations = job['MatchedObjectDescriptor']['PositionLocation']  # Get job locations
+                    job_location_str = "Multiple Locations" if len(job_locations) > 1 else job_locations[0]['LocationName']  # Determine if the job has multiple locations
+                    unique_job_key = (job_title, job_location_str, job_url)  # Create a unique key for the job
+
+                    if unique_job_key not in unique_jobs:  # Check if job key is unique
+                        unique_jobs.add(unique_job_key)  # Add job key to the set
                         # Check if the job is located in the US or Non-US
                         job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
                         all_jobs[category][job_location].append(job)  # Append job to the appropriate category and location
