@@ -86,7 +86,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']  # Get job title
                     job_url = job['MatchedObjectDescriptor']['PositionURI']  # Get job URL
                     job_locations = job['MatchedObjectDescriptor']['PositionLocation']  # Get job locations
-                    job_locations_str = "Multiple Locations" if len(job_locations) > 1 else job_locations[0]['LocationName']  # Check if job has multiple locations
+                    # Check if job has multiple locations and set job_locations_str accordingly
+                    job_locations_str = "Multiple Locations" if len(job_locations) > 1 else job_locations[0]['LocationName']
                     readme_content += f"| [{job_title}]({job_url}) | {job_locations_str} | [Apply Here]({job_url}) |\n"  # Add job details to table
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')  # Get current time in UTC

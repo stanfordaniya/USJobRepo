@@ -173,8 +173,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [IT SPECIALIST (NETWORK SERVICES)](https://www.usajobs.gov:443/GetJob/ViewDetails/800518400) | Fort Drum, New York | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800518400) |
 | [Patient Safety Lead Defense Health Network](https://www.usajobs.gov:443/GetJob/ViewDetails/801261100) | Fort Belvoir, Virginia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801261100) |
 | [IT SPECIALIST (NETWORK)](https://www.usajobs.gov:443/GetJob/ViewDetails/801186800) | Panama City Naval Surface Warfare Center, Florida | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801186800) |
-| [ITSPEC (NETWORK)](https://www.usajobs.gov:443/GetJob/ViewDetails/800515600) | Saint Paul, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800515600) |
 | [IT Specialist (Network Services)](https://www.usajobs.gov:443/GetJob/ViewDetails/800643600) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800643600) |
+| [ITSPEC (NETWORK)](https://www.usajobs.gov:443/GetJob/ViewDetails/800515600) | Saint Paul, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800515600) |
 | [Systems and Network Administrator](https://www.usajobs.gov:443/GetJob/ViewDetails/780361000) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/780361000) |
 | [IT Specialist (Network)](https://www.usajobs.gov:443/GetJob/ViewDetails/801069000) | Fort Meade, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801069000) |
 | [IT SPECIALIST (NETWORK)](https://www.usajobs.gov:443/GetJob/ViewDetails/801707600) | Bangor, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801707600) |
@@ -250,10 +250,10 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [Master Transportation Security Officer - Security Training Instructor](https://www.usajobs.gov:443/GetJob/ViewDetails/801646800) | Juneau, Alaska | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801646800) |
 | [Master Transportation Security Officer- Security Training Instructor](https://www.usajobs.gov:443/GetJob/ViewDetails/802151300) | Bridgeton, Missouri | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802151300) |
 | [SECURITY GUARD - TITLE 32](https://www.usajobs.gov:443/GetJob/ViewDetails/780676700) | Marietta, Georgia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/780676700) |
+| [Security Guard](https://www.usajobs.gov:443/GetJob/ViewDetails/779164500) | Inscription House, Arizona | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/779164500) |
 | [Transportation Security Officer](https://www.usajobs.gov:443/GetJob/ViewDetails/771235200) | Longview, Texas | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/771235200) |
 | [Transportation Security Officer](https://www.usajobs.gov:443/GetJob/ViewDetails/774861400) | Lafayette, Louisiana | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/774861400) |
 | [Transportation Security Officer](https://www.usajobs.gov:443/GetJob/ViewDetails/777407400) | Wilmington, North Carolina | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/777407400) |
-| [Transportation Security Officer](https://www.usajobs.gov:443/GetJob/ViewDetails/751102300) | Lincoln, Nebraska | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/751102300) |
 | [Information Technology Specialist - INSPECTOR (INFORMATION SECURITY))](https://www.usajobs.gov:443/GetJob/ViewDetails/746015800) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/746015800) |
 | [Information Technology Specialist (Information Security)](https://www.usajobs.gov:443/GetJob/ViewDetails/743747400) | Anywhere in the U.S. (remote job), United States | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/743747400) |
 | [IT Specialist (Infosec)- P](https://www.usajobs.gov:443/GetJob/ViewDetails/786834300) | Washington, District of Columbia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/786834300) |
@@ -371,8 +371,8 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228300) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228300) |
 | [Lead Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/788422000) | Baltimore, Maryland | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/788422000) |
 | [Electrical Engineer (Controls)](https://www.usajobs.gov:443/GetJob/ViewDetails/801963400) | Lakewood, Colorado | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801963400) |
-| [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) |
 | [Electrical Engineer (Controls)](https://www.usajobs.gov:443/GetJob/ViewDetails/801967000) | Lakewood, Colorado | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801967000) |
+| [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800074500) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800074500) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800074700) | Vancouver, Washington | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800074700) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/756798600) | Multiple Locations | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/756798600) |
@@ -589,9 +589,9 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 | [Health Technician](https://www.usajobs.gov:443/GetJob/ViewDetails/801360800) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801360800) |
 | [Licensed Professional Mental Health Counselor- Outpatient](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) | Alexandria, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) |
 | [Physician - General Surgeon (Recruitment Incentive)](https://www.usajobs.gov:443/GetJob/ViewDetails/786092300) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/786092300) |
-| [Licensed Professional Mental Health Counselor- Healthcare for Homeless Veterans Program](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800627200) | Fort Belvoir, Virginia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800627200) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800627500) | Fort Belvoir, Virginia | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800627500) |
+| [Licensed Professional Mental Health Counselor- Healthcare for Homeless Veterans Program](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) |
 | [Social Worker- Outpatient Mental Health-IC](https://www.usajobs.gov:443/GetJob/ViewDetails/779800100) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/779800100) |
 | [Social Worker-Mental Health Residential Rehabilitation Treatment Program](https://www.usajobs.gov:443/GetJob/ViewDetails/796800200) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/796800200) |
 | [Mental Health Medical Director / Physician - Psychiatrist (Recruitment Incentive)](https://www.usajobs.gov:443/GetJob/ViewDetails/800934100) | Saint Cloud, Minnesota | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800934100) |
@@ -642,4 +642,4 @@ Welcome to the tech job listings page! Here you will find the most recent job op
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2024-07-30 00:22:18 UTC*
+*Last Updated: 2024-07-30 00:30:44 UTC*
