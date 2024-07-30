@@ -20,7 +20,7 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: {"US": [], "Non-US": []} for category in categories}
+        all_jobs = {category: [] for category in categories}
         unique_jobs = set()
 
         for category, keywords in categories.items():
@@ -43,8 +43,9 @@ def fetch_jobs(api_key):
 
                     if unique_job_key not in unique_jobs:
                         unique_jobs.add(unique_job_key)
-                        job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
-                        all_jobs[category][job_location].append(job)
+                        job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else None
+                        if job_location == "US":
+                            all_jobs[category].append(job)
 
         with open('jobs.json', 'w', encoding='utf-8') as f:
             json.dump(all_jobs, f, indent=2)
@@ -76,14 +77,12 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 ## Jobs
 """
 
-        for category, locations in all_jobs.items():
-            us_jobs = locations.get("US", [])
-            if us_jobs:
-                print(f"Adding {len(us_jobs)} jobs for category '{category}'")
-                readme_content += f"\n### {category} Jobs (US)\n\n"
+        for category, jobs in all_jobs.items():
+            if jobs:
+                readme_content += f"\n### {category} Jobs\n\n"
                 readme_content += "| Job Title | Locations | Link |\n"
                 readme_content += "|-----------|-----------|------|\n"
-                for job in us_jobs:
+                for job in jobs:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
                     job_locations = job['MatchedObjectDescriptor']['PositionLocation']
