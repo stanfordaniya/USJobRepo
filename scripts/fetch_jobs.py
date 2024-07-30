@@ -21,6 +21,7 @@ def fetch_jobs(api_key):
             "User-Agent": "your-email@example.com"  # User agent header
         }
         all_jobs = {category: {"US": [], "Non-US": []} for category in categories}  # Initialize dictionary to store jobs
+        unique_job_ids = set()  # Set to store unique job IDs
 
         # Iterate through each category and its keywords
         for category, keywords in categories.items():
@@ -35,18 +36,12 @@ def fetch_jobs(api_key):
                 jobs = response.json()  # Parse the JSON response
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")  # Log the number of jobs fetched
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
-                    # Check if the job is located in the US or Non-US
-                    job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
-                    all_jobs[category][job_location].append(job)  # Append job to the appropriate category and location
-
-        # Remove duplicate jobs by Position ID
-        for category in all_jobs:
-            for location in all_jobs[category]:
-                unique_jobs = {}
-                for job in all_jobs[category][location]:
-                    job_id = job['MatchedObjectId']
-                    unique_jobs[job_id] = job
-                all_jobs[category][location] = list(unique_jobs.values())
+                    job_id = job['MatchedObjectId']  # Get the unique job ID
+                    if job_id not in unique_job_ids:  # Check if job ID is unique
+                        unique_job_ids.add(job_id)  # Add job ID to the set
+                        # Check if the job is located in the US or Non-US
+                        job_location = "US" if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']) else "Non-US"
+                        all_jobs[category][job_location].append(job)  # Append job to the appropriate category and location
 
         # Save all jobs to jobs.json file
         with open('jobs.json', 'w', encoding='utf-8') as f:
