@@ -35,7 +35,6 @@ def fetch_jobs(api_key):
                 jobs = response.json()
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
-                    job_id = job['MatchedObjectId']
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
                     job_locations = job['MatchedObjectDescriptor']['PositionLocation']
