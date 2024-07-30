@@ -77,12 +77,12 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 """
 
         for category, locations in all_jobs.items():
-            for location, jobs in locations.items():
-                location_label = "US" if location == "US" else "Non-US"
-                readme_content += f"\n### {category} Jobs ({location_label})\n\n"
+            us_jobs = locations.get("US", [])
+            if us_jobs:
+                readme_content += f"\n### {category} Jobs (US)\n\n"
                 readme_content += "| Job Title | Locations | Link |\n"
                 readme_content += "|-----------|-----------|------|\n"
-                for job in jobs:
+                for job in us_jobs:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
                     job_locations = job['MatchedObjectDescriptor']['PositionLocation']
@@ -108,6 +108,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
     except Exception as e:
         print(f"An error occurred while updating the README: {e}")
         raise
+
 
 if __name__ == "__main__":
     api_key = os.getenv("USAJOBS_API_KEY")
