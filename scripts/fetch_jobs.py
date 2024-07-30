@@ -42,7 +42,11 @@ def fetch_jobs(api_key):
         # Remove duplicate jobs by Position ID
         for category in all_jobs:
             for location in all_jobs[category]:
-                all_jobs[category][location] = list({job['MatchedObjectId']: job for job in all_jobs[category][location]}.values())
+                unique_jobs = {}
+                for job in all_jobs[category][location]:
+                    job_id = job['MatchedObjectId']
+                    unique_jobs[job_id] = job
+                all_jobs[category][location] = list(unique_jobs.values())
 
         # Save all jobs to jobs.json file
         with open('jobs.json', 'w', encoding='utf-8') as f:
