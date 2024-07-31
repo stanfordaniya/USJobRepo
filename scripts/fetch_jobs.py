@@ -72,13 +72,12 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 """
         for category in categories:
             readme_content += f"- [{category} Jobs in the US](#{category.lower()}-jobs-in-the-us)\n"
-            readme_content += f"- [{category} Jobs outside the US](#{category.lower()}-jobs-outside-the-us)\n"
         readme_content += "\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
         for category, locations in all_jobs.items():
             for location, jobs in locations.items():
-                location_label = "in the US" if location == "US" else "outside the US"
+                location_label = "in the US" if location == "US" else null
                 readme_content += f"## {category} Jobs {location_label}\n\n"
                 readme_content += "| Job Title | Location | Apply By | Link |\n"
                 readme_content += "|-----------|----------|----------|------|\n"
