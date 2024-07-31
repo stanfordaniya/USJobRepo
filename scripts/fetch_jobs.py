@@ -20,7 +20,7 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: [] for category in categories}  # Change to only store US jobs
+        all_jobs = {category: [] for category in categories}  # Store only US jobs
 
         for category, keywords in categories.items():
             for keyword in keywords:
