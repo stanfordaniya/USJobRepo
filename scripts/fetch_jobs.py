@@ -20,13 +20,12 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: [] for category in categories}  # Change to only store US jobs
+        all_jobs = {category: [] for category in categories}  # Only store jobs, no distinction for US or Non-US
 
         for category, keywords in categories.items():
             for keyword in keywords:
                 params = {
-                    "Keyword": keyword,
-                    "LocationName": "United States"  # Ensure only US jobs are fetched
+                    "Keyword": keyword
                 }
                 print(f"Sending request to USA Jobs API for keyword: {keyword}...")
                 response = requests.get(url, headers=headers, params=params)
@@ -35,17 +34,15 @@ def fetch_jobs(api_key):
                 jobs = response.json()
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
-                    if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']):
-                        all_jobs[category].append(job)  # Only append US jobs
+                    all_jobs[category].append(job)
 
         # Remove duplicate jobs by Position ID
         for category in all_jobs:
-            all_jobs[category] = list({job['MatchedObjectId']: job for job in all_jobs[category]}.values())  # Simplified for only US jobs
+            all_jobs[category] = list({job['MatchedObjectId']: job for job in all_jobs[category]}.values())
 
         with open('jobs.json', 'w', encoding='utf-8') as f:
             json.dump(all_jobs, f, indent=2)
         print("jobs.json file updated successfully.")
-        print(f"All jobs data: {json.dumps(all_jobs, indent=2)}")  # Debug print to see the fetched job data
 
         update_readme(all_jobs)
 
