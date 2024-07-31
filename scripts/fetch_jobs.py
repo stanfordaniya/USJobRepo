@@ -10,7 +10,9 @@ categories = {
     "Engineering": ["engineering", "engineer", "mechanical", "electrical", "civil", "chemical"],
     "Data Science": ["data science", "data scientist", "machine learning", "AI", "artificial intelligence"],
     "Web Development": ["web development", "web developer", "frontend", "backend", "fullstack"],
-    "Cloud Computing": ["cloud", "AWS", "Azure", "GCP", "cloud engineer"]
+    "Cloud Computing": ["cloud", "AWS", "Azure", "GCP", "cloud engineer"],
+    "Internships": ["internship", "intern", "co-op"]
+    
 }
 
 def fetch_jobs(api_key):
