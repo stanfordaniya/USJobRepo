@@ -105,10 +105,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 
 *Last Updated: {current_time} UTC*
 
-### Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-
-![Tech Jobs](https://via.placeholder.com/728x90.png)
 """
         print("README content generated successfully.")
 
