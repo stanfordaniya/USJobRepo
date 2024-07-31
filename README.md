@@ -7,9 +7,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - [IT Jobs](#it-jobs)
 - [Cybersecurity Jobs](#cybersecurity-jobs)
 - [Engineering Jobs](#engineering-jobs)
-- [Data Science Jobs](#data science-jobs)
-- [Web Development Jobs](#web development-jobs)
-- [Cloud Computing Jobs](#cloud computing-jobs)
+- [Data Science Jobs](#data-science-jobs)
+- [Web Development Jobs](#web-development-jobs)
+- [Cloud Computing Jobs](#cloud-computing-jobs)
 
 ## IT Jobs
 
