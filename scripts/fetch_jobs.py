@@ -45,6 +45,7 @@ def fetch_jobs(api_key):
         with open('jobs.json', 'w', encoding='utf-8') as f:
             json.dump(all_jobs, f, indent=2)
         print("jobs.json file updated successfully.")
+        print(f"All jobs data: {json.dumps(all_jobs, indent=2)}")  # Debug print to see the fetched job data
 
         update_readme(all_jobs)
 
@@ -99,6 +100,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 *Last Updated: {current_time} UTC*
 """
         print("README content generated successfully.")
+        print(f"README content:\n{readme_content}")  # Debug print to see the generated README content
 
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(readme_content)
