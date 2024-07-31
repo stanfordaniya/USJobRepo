@@ -20,13 +20,13 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: [] for category in categories}  # Store only US jobs
+        all_jobs = {category: [] for category in categories}  # Change to only store US jobs
 
         for category, keywords in categories.items():
             for keyword in keywords:
                 params = {
                     "Keyword": keyword,
-                    "LocationName": "United States"
+                    "LocationName": "United States"  # Ensure only US jobs are fetched
                 }
                 print(f"Sending request to USA Jobs API for keyword: {keyword}...")
                 response = requests.get(url, headers=headers, params=params)
@@ -69,12 +69,12 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 ## Table of Contents
 """
         for category in categories:
-            readme_content += f"- [{category} Jobs](#{category.lower()}-jobs)\n"  # Update Table of Contents to link only to categories
+            readme_content += f"- [{category} Jobs](#{category.lower()}-jobs)\n"
         readme_content += "\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
         for category, jobs in all_jobs.items():
-            readme_content += f"## {category} Jobs\n\n"  # Remove 'Jobs in the US' as it's implicit
+            readme_content += f"## {category} Jobs\n\n"
             readme_content += "| Job Title | Location | Apply By | Link |\n"
             readme_content += "|-----------|----------|----------|------|\n"
             for job in jobs:
@@ -98,9 +98,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Ensure your resume and cover letter are updated.
 
 *Last Updated: {current_time} UTC*
+
 """
         print("README content generated successfully.")
-        print(f"README content:\n{readme_content}")  # Debug print to see the generated README content
 
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(readme_content)
