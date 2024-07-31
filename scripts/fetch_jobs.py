@@ -63,7 +63,7 @@ def update_readme(all_jobs):
         readme_content = """
 # 🖥️ USAJobs: IT, Cybersecurity, Data Science, etc.
 
-Welcome to the USAJobs listings page! Here you will find the most recent federal government jobs.
+Welcome to the USAJobs listings page! Here you will find the most recent federal government tech jobs + Internships.
 
 ## Table of Contents
 """
