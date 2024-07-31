@@ -55,9 +55,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/792136500) | Multiple Locations | 2025-05-19T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792136500) |
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/793160700) | Multiple Locations | 2025-05-27T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/793160700) |
 | [Information Technology Specialist (CUSTSUP)](https://www.usajobs.gov:443/GetJob/ViewDetails/795004000) | Multiple Locations | 2025-06-09T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795004000) |
-| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) | Multiple Locations | 2025-05-20T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) |
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/794319700) | Multiple Locations | 2025-06-04T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794319700) |
 | [Information Technology Specialist (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/794319900) | Multiple Locations | 2025-06-04T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794319900) |
+| [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) | Multiple Locations | 2025-05-20T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792331400) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/795015900) | Multiple Locations | 2025-06-09T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795015900) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/794114800) | Multiple Locations | 2025-06-03T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794114800) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/794338600) | Multiple Locations | 2025-06-04T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794338600) |
@@ -80,8 +80,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT Specialist Application Software](https://www.usajobs.gov:443/GetJob/ViewDetails/797898900) | Juneau, Alaska | 2024-12-31T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/797898900) |
 | [Supervisory Information Technology (Application Software)](https://www.usajobs.gov:443/GetJob/ViewDetails/801190000) | Corpus Christi, Texas | 2024-08-02T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801190000) |
 | [Supervisory Information Technology Specialist (Application Software)](https://www.usajobs.gov:443/GetJob/ViewDetails/801241600) | Ashburn, Virginia | 2024-08-02T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801241600) |
-| [INFORMATION TECHNOLOGY SPECIALIST (APPLICATION SOFTWARE)](https://www.usajobs.gov:443/GetJob/ViewDetails/798623700) | Multiple Locations | 2024-08-12T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/798623700) |
 | [Information Technology Specialist (Sys Analyst/App Software) - 9 Month Roster, Direct Hire](https://www.usajobs.gov:443/GetJob/ViewDetails/792390900) | Multiple Locations | 2024-11-21T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792390900) |
+| [INFORMATION TECHNOLOGY SPECIALIST (APPLICATION SOFTWARE)](https://www.usajobs.gov:443/GetJob/ViewDetails/798623700) | Multiple Locations | 2024-08-12T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/798623700) |
 | [Information Technology Specialist (Applications Software) - 9 Month Roster](https://www.usajobs.gov:443/GetJob/ViewDetails/776881700) | IRS Nationwide Locations,  | 2024-08-15T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/776881700) |
 | [IT Specialist (Systems Analysis / Applications Software) Systems Acceptability Tester](https://www.usajobs.gov:443/GetJob/ViewDetails/800312700) | Multiple Locations | 2024-07-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800312700) |
 | [IT Specialist (Systems Analysis / Applications Software) Systems Acceptability Tester](https://www.usajobs.gov:443/GetJob/ViewDetails/800314400) | Multiple Locations | 2024-07-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800314400) |
@@ -92,8 +92,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Public Notice for Direct Hire (DMI) - IT Specialist (Data Management/Applications Software)](https://www.usajobs.gov:443/GetJob/ViewDetails/795380500) | Multiple Locations | 2024-09-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795380500) |
 | [Public Notice for Direct Hire (DMI) - Information Technology Specialist (Applications Software)](https://www.usajobs.gov:443/GetJob/ViewDetails/795359000) | Anywhere in the U.S. (remote job) | 2024-09-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795359000) |
 | [Public Notice for Direct Hire (DMI) - Information Technology Specialist (Applications Software)](https://www.usajobs.gov:443/GetJob/ViewDetails/795359700) | Multiple Locations | 2024-09-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795359700) |
-| [Pathways Recent Graduate Prgm Info Tech Spc (Systems Analysis/Applications Software) 9 Month Roster](https://www.usajobs.gov:443/GetJob/ViewDetails/786879200) | Multiple Locations | 2024-10-21T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/786879200) |
 | [Information Technology Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801357000) | Silver City, New Mexico | 2024-08-01T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801357000) |
+| [Pathways Recent Graduate Prgm Info Tech Spc (Systems Analysis/Applications Software) 9 Month Roster](https://www.usajobs.gov:443/GetJob/ViewDetails/786879200) | Multiple Locations | 2024-10-21T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/786879200) |
 | [COMPUTER SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/799857300) | Aberdeen Proving Ground, Maryland | 2024-07-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/799857300) |
 | [IT Specialist (APPSW) (Python Developer)](https://www.usajobs.gov:443/GetJob/ViewDetails/801755300) | Multiple Locations | 2024-08-01T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801755300) |
 | [Applications Developer](https://www.usajobs.gov:443/GetJob/ViewDetails/759292900) | Washington DC, District of Columbia | 2024-09-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/759292900) |
@@ -375,9 +375,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/791755400) | Multiple Locations | 2024-08-15T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/791755400) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228300) | Multiple Locations | 2024-07-31T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228300) |
 | [Lead Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/788422000) | Baltimore, Maryland | 2025-04-24T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/788422000) |
+| [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) | Multiple Locations | 2024-07-31T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) |
 | [Electrical Engineer (Controls)](https://www.usajobs.gov:443/GetJob/ViewDetails/801963400) | Lakewood, Colorado | 2024-08-09T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801963400) |
 | [Electrical Engineer (Controls)](https://www.usajobs.gov:443/GetJob/ViewDetails/801967000) | Lakewood, Colorado | 2024-08-09T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801967000) |
-| [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) | Multiple Locations | 2024-07-31T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800228400) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/756798600) | Multiple Locations | 2024-10-25T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/756798600) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/802077500) | Naval Shipyard, Portsmouth, Virginia | 2024-08-08T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802077500) |
 | [Electrical Engineer, AST, Electrical Power Systems](https://www.usajobs.gov:443/GetJob/ViewDetails/800372900) | Kennedy Space Center, Florida | 2024-07-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800372900) |
@@ -591,9 +591,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Registered Nurse - Healthcare for Homeless Veterans Case Manager RN](https://www.usajobs.gov:443/GetJob/ViewDetails/801933200) | Saint Cloud, Minnesota | 2024-08-12T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801933200) |
 | [Social Worker-Outpatient Mental Health](https://www.usajobs.gov:443/GetJob/ViewDetails/781681900) | Alexandria, Minnesota | 2024-08-22T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/781681900) |
 | [Social Worker-Mental Health Residential Rehabilitation Treatment Program](https://www.usajobs.gov:443/GetJob/ViewDetails/796800000) | Saint Cloud, Minnesota | 2024-09-30T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/796800000) |
+| [Licensed Professional Mental Health Counselor- Outpatient](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) | Alexandria, Minnesota | 2024-08-22T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800627200) | Fort Belvoir, Virginia | 2024-08-01T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800627200) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/800627500) | Fort Belvoir, Virginia | 2024-08-01T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800627500) |
-| [Licensed Professional Mental Health Counselor- Outpatient](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) | Alexandria, Minnesota | 2024-08-22T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/781682000) |
 | [Physician - General Surgeon (Recruitment Incentive)](https://www.usajobs.gov:443/GetJob/ViewDetails/786092300) | Saint Cloud, Minnesota | 2024-09-27T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/786092300) |
 | [Licensed Professional Mental Health Counselor- Healthcare for Homeless Veterans Program](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) | Saint Cloud, Minnesota | 2024-08-12T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801937400) |
 | [Social Worker- Outpatient Mental Health-IC](https://www.usajobs.gov:443/GetJob/ViewDetails/779800100) | Saint Cloud, Minnesota | 2024-08-22T23:59:59.9970 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/779800100) |
@@ -647,9 +647,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2024-07-31 00:00:03 UTC*
+*Last Updated: 2024-07-31 00:03:27 UTC*
 
-### Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-
-![Tech Jobs](https://via.placeholder.com/728x90.png)
