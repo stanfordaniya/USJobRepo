@@ -68,7 +68,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
         for category in categories:
              # Replace spaces with hyphens and convert to lowercase for the link
             category_link = category.replace(" ", "-").lower()  # Change implemented here -- added
-            readme_content += f"- [{category} Jobs](#{category.lower()}-jobs)\n"
+            readme_content += f"- [{category} Jobs](#{category_link}-jobs)\n"
         readme_content += "\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
