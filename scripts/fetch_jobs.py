@@ -20,7 +20,7 @@ def fetch_jobs(api_key):
             "Authorization-Key": api_key,
             "User-Agent": "your-email@example.com"
         }
-        all_jobs = {category: {"US": [], "Non-US": []} for category in categories}
+        all_jobs = {category: [] for category in categories}  # Changed structure to only include US jobs
 
         for category, keywords in categories.items():
             for keyword in keywords:
@@ -36,14 +36,11 @@ def fetch_jobs(api_key):
                 print(f"Number of jobs fetched for keyword '{keyword}': {len(jobs.get('SearchResult', {}).get('SearchResultItems', []))}")
                 for job in jobs.get('SearchResult', {}).get('SearchResultItems', []):
                     if any(loc.get('CountryCode') == "USA" for loc in job['MatchedObjectDescriptor']['PositionLocation']):
-                        all_jobs[category]["US"].append(job)
-                    else:
-                        all_jobs[category]["Non-US"].append(job)
+                        all_jobs[category].append(job)
 
         # Remove duplicate jobs by Position ID
         for category in all_jobs:
-            all_jobs[category]["US"] = list({job['MatchedObjectId']: job for job in all_jobs[category]["US"]}.values())
-            all_jobs[category]["Non-US"] = list({job['MatchedObjectId']: job for job in all_jobs[category]["Non-US"]}.values())
+            all_jobs[category] = list({job['MatchedObjectId']: job for job in all_jobs[category]}.values())
 
         with open('jobs.json', 'w', encoding='utf-8') as f:
             json.dump(all_jobs, f, indent=2)
@@ -71,22 +68,20 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 ## Table of Contents
 """
         for category in categories:
-            readme_content += f"- [{category} Jobs in the US](#{category.lower()}-jobs-in-the-us)\n"
+            readme_content += f"- [{category} Jobs](#{category.lower()}-jobs)\n"  # Updated to only link to categories
         readme_content += "\n"
 
         current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-        for category, locations in all_jobs.items():
-            for location, jobs in locations.items():
-                location_label = "in the US" if location == "US" else "outside the US"
-                readme_content += f"## {category} Jobs {location_label}\n\n"
+        for category, jobs in all_jobs.items():
+            if jobs:
+                readme_content += f"## {category} Jobs\n\n"  # Removed location distinction
                 readme_content += "| Job Title | Location | Apply By | Link |\n"
                 readme_content += "|-----------|----------|----------|------|\n"
                 for job in jobs:
                     job_title = job['MatchedObjectDescriptor']['PositionTitle']
                     job_url = job['MatchedObjectDescriptor']['PositionURI']
                     position_location_display = job['MatchedObjectDescriptor']['PositionLocationDisplay']
-                    apply_by = job['MatchedObjectDescriptor']['ApplicationCloseDate']
-                   
+                    apply_by = job['MatchedObjectDescriptor']['ApplicationCloseDate'].split('T')[0]  # Extract only date
 
                     if isinstance(position_location_display, list):
                         job_location = ", ".join([loc['LocationName'] for loc in position_location_display])
