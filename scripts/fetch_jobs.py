@@ -5,15 +5,15 @@ from datetime import datetime
 
 # Define job categories and their keywords
 categories = {
-    "IT": ["IT", "information technology", "software", "developer", "programmer", "data", "system", "network"],
-    "Cybersecurity": ["cybersecurity", "security", "information security"],
-    "Engineering": ["engineering", "engineer", "mechanical", "electrical", "civil", "chemical"],
-    "Data Science": ["data science", "data scientist", "machine learning", "AI", "artificial intelligence"],
-    "Web Development": ["web development", "web developer", "frontend", "backend", "fullstack"],
-    "Cloud Computing": ["cloud", "AWS", "Azure", "GCP", "cloud engineer"],
-    "Internships": ["internship", "intern", "co-op"]
-    
+    "IT": ["IT", "information technology", "software", "developer", "programming", "database", "systems analyst", "network", "IT support"],
+    "Cybersecurity": ["cybersecurity", "security", "information security", "infosec", "cyber defense", "penetration testing", "ethical hacking", "network security", "incident response"],
+    "Engineering": ["engineering", "engineer", "mechanical engineering", "electrical engineering", "civil engineering", "chemical engineering", "aerospace engineering", "biomedical engineering", "industrial engineering", "manufacturing engineering"],
+    "Data Science": ["data science", "data scientist", "machine learning", "AI", "artificial intelligence", "deep learning", "big data", "data analytics", "data mining", "statistical analysis"],
+    "Web Development": ["web development", "web developer", "frontend development", "backend development", "fullstack development", "web design", "UI/UX", "HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js", "Node.js"],
+    "Cloud Computing": ["cloud computing", "AWS", "Azure", "GCP", "cloud engineer", "cloud architecture", "cloud services", "cloud infrastructure", "cloud security"],
+    "Internships": ["internship", "intern", "co-op", "trainee", "apprenticeship", "summer internship", "graduate internship"]
 }
+
 
 def fetch_jobs(api_key):
     try:
