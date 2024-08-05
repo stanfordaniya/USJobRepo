@@ -140,8 +140,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Information Technology Specialist (Customer Support)](https://www.usajobs.gov:443/GetJob/ViewDetails/801996000) | North Chicago, Illinois | 2024-08-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801996000) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/802973400) | Multiple Locations | 2024-08-11 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802973400) |
 | [Information Technology Specialist (Customer Support)](https://www.usajobs.gov:443/GetJob/ViewDetails/801996100) | North Chicago, Illinois | 2024-08-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801996100) |
-| [IT Program Manager (SYSANALYSIS)](https://www.usajobs.gov:443/GetJob/ViewDetails/802595400) | Multiple Locations | 2024-08-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802595400) |
 | [IT CYBERSECURITY/ SPECIALIST (CUSTSPT/INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/791242400) | Multiple Locations | 2024-08-12 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/791242400) |
+| [IT Program Manager (SYSANALYSIS)](https://www.usajobs.gov:443/GetJob/ViewDetails/802595400) | Multiple Locations | 2024-08-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802595400) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/801648000) | Suffolk, Virginia | 2024-08-08 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801648000) |
 | [IT PROGRAM MANAGER (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/802385800) | Multiple Locations | 2024-08-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802385800) |
 | [Lead IT Specialist (SYSADMIN/INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/802131300) | Whitehall, Ohio | 2024-08-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802131300) |
@@ -198,12 +198,12 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [INDUSTRIAL SECURITY SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/801203800) | Quantico, Virginia | 2024-08-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801203800) |
 | [Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801832400) | Carlisle Barracks, Pennsylvania | 2024-08-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801832400) |
 | [Physical Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/801640600) | Arlington, Virginia | 2024-08-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801640600) |
+| [SECURITY GUARD](https://www.usajobs.gov:443/GetJob/ViewDetails/772693900) | Dugway Proving Ground, Utah | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/772693900) |
+| [Transportation Security Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/803082500) | Fresno, California | 2024-08-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/803082500) |
 | [Master Transportation Security Officer - Security Training Instructor](https://www.usajobs.gov:443/GetJob/ViewDetails/801444400) | Nashville, Tennessee | 2024-08-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801444400) |
 | [Master Transportation Security Officer - Security Training Instructor](https://www.usajobs.gov:443/GetJob/ViewDetails/801646800) | Juneau, Alaska | 2024-08-08 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801646800) |
 | [Master Transportation Security Officer- Security Training Instructor](https://www.usajobs.gov:443/GetJob/ViewDetails/802151300) | Bridgeton, Missouri | 2024-08-08 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802151300) |
 | [Master Transportation Security Officer- Security Training Instructor](https://www.usajobs.gov:443/GetJob/ViewDetails/802887400) | Austin, Texas | 2024-08-12 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802887400) |
-| [Transportation Security Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/803082500) | Fresno, California | 2024-08-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/803082500) |
-| [SECURITY GUARD](https://www.usajobs.gov:443/GetJob/ViewDetails/772693900) | Dugway Proving Ground, Utah | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/772693900) |
 | [PERSONNEL SECURITY SPECIALIST (INVESTIGATIONS THREAT OPS)](https://www.usajobs.gov:443/GetJob/ViewDetails/802693800) | Multiple Locations | 2024-08-12 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802693800) |
 | [Information Technology Specialist - INSPECTOR (INFORMATION SECURITY))](https://www.usajobs.gov:443/GetJob/ViewDetails/746015800) | Washington, District of Columbia | 2024-08-27 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/746015800) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/802308400) | Multiple Locations | 2024-08-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802308400) |
@@ -457,8 +457,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Battery and Power Research and Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/757684300) | Washington DC, District of Columbia | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757684300) |
 | [Project Engineer (RIDP) - Direct Hire Notice for Regions I, II, III & IV](https://www.usajobs.gov:443/GetJob/ViewDetails/794762600) | Multiple Locations | 2025-06-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794762600) |
 | [Science Technology & Weapons Analyst](https://www.usajobs.gov:443/GetJob/ViewDetails/756721200) | Washington DC, District of Columbia | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/756721200) |
-| [ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/801850500) | Indian Head, Maryland | 2024-08-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801850500) |
 | [Aerospace Engineering Project Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/757582000) | Washington DC, District of Columbia | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757582000) |
+| [ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/801850500) | Indian Head, Maryland | 2024-08-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801850500) |
 | [Aerospace Engineer, AST, Aerospace Flight Systems (Direct Hire)](https://www.usajobs.gov:443/GetJob/ViewDetails/801097400) | Wallops Island, Virginia | 2024-08-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801097400) |
 | [Public Notice for Aerospace Engineer (Direct Hire)](https://www.usajobs.gov:443/GetJob/ViewDetails/689241800) | May be filled in various FAA duty locations,  | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/689241800) |
 | [Public Notice for Aerospace Engineer (Direct Hire)](https://www.usajobs.gov:443/GetJob/ViewDetails/689240200) | May be filled in various FAA duty locations,  | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/689240200) |
@@ -1016,9 +1016,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/792981200) | Chicago, Illinois | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792981200) |
 | [Foreman II Lineman Electric Power](https://www.usajobs.gov:443/GetJob/ViewDetails/795317800) | Coolidge, Arizona | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795317800) |
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/797062600) | Decatur, Illinois | 2024-08-14 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/797062600) |
+| [EDUCATION & CAREER SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/801296900) | Quantico, Virginia | 2024-08-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801296900) |
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/783861700) | Multiple Locations | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/783861700) |
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/787022500) | Multiple Locations | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/787022500) |
-| [EDUCATION & CAREER SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/801296900) | Quantico, Virginia | 2024-08-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801296900) |
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/763066400) | Menlo Park, California | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/763066400) |
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/763066600) | Menlo Park, California | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/763066600) |
 | [Health Technician (Hearing Instrument Specialist)](https://www.usajobs.gov:443/GetJob/ViewDetails/801173000) | Multiple Locations | 2024-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801173000) |
@@ -1044,5 +1044,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2024-08-04 04:29:45 UTC*
+*Last Updated: 2024-08-05 01:13:13 UTC*
 
