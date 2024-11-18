@@ -47,7 +47,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT Project Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/819115300) | District of Columbia, District of Columbia | 2024-11-28 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819115300) |
 | [IT SPECIALIST (APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/818549200) | Indianapolis, Indiana | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818549200) |
 | [IT SPECIALIST (PROJMGT)](https://www.usajobs.gov:443/GetJob/ViewDetails/818768400) | Multiple Locations | 2024-11-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818768400) |
-| [IT Specialist - Info Sec, Info Systems Security Officer PD 20R133 - Office of Information Technology](https://www.usajobs.gov:443/GetJob/ViewDetails/818320400) | Anywhere in the U.S. (remote job) | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818320400) |
 | [IT Specialist (APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/818823400) | Washington, District of Columbia | 2024-11-23 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818823400) |
 | [IT Specialist - Network Engineer - PD 22R054 - Office of Information Technology](https://www.usajobs.gov:443/GetJob/ViewDetails/818333300) | Rockville, Maryland | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818333300) |
 | [LEAD IT SPECIALIST (APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/817791000) | Multiple Locations | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817791000) |
@@ -162,7 +161,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT CYBERSECURITY SPECIALIST (SECURITY)](https://www.usajobs.gov:443/GetJob/ViewDetails/818774800) | Multiple Locations | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818774800) |
 | [Cybersecurity Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/817615600) | Virginia Beach, Virginia | 2025-02-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817615600) |
 | [ICDF - Student Trainee (Information Technology)](https://www.usajobs.gov:443/GetJob/ViewDetails/818570600) | Arlington, Virginia | 2024-11-27 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818570600) |
-| [Supervisory IT Cybersecurity Spec (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818571900) | Multiple Locations | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818571900) |
 | [Digital Forensics - Technical](https://www.usajobs.gov:443/GetJob/ViewDetails/815078000) | Multiple Locations | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/815078000) |
 | [Digital Forensics - Leadership](https://www.usajobs.gov:443/GetJob/ViewDetails/815075900) | Multiple Locations | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/815075900) |
 | [CISA - Scholarship for Service (SFS) Intern - Accepting Resumes, Transcripts, and Service Letters](https://www.usajobs.gov:443/GetJob/ViewDetails/814786100) | Anywhere in the U.S. (remote job) | 2025-01-17 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814786100) |
@@ -180,6 +178,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT CYBERSECURITY SPECIALIST (INFOSEC/APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/818449500) | Naval Business Center, Philadelphia, Pennsylvania | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818449500) |
 | [IT Specialist (Security)](https://www.usajobs.gov:443/GetJob/ViewDetails/818972100) | Schriever AFB, Colorado | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818972100) |
 | [IT Cybersecurity Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/791487200) | Orlando Naval Warfare Center, Florida | 2025-05-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/791487200) |
+| [IT CYBERSECURITY SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/773950100) | Orlando Naval Warfare Center, Florida | 2025-01-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/773950100) |
 | [Security Assistant](https://www.usajobs.gov:443/GetJob/ViewDetails/818760200) | Springfield, Virginia | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818760200) |
 | [Security Assistant](https://www.usajobs.gov:443/GetJob/ViewDetails/818760900) | Springfield, Virginia | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818760900) |
 | [Personnel Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/819208800) | Washington, District of Columbia | 2024-11-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819208800) |
@@ -210,8 +209,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [INFORMATION TECHNOLOGY SPECIALIST (INFOSEC) (Title 5)](https://www.usajobs.gov:443/GetJob/ViewDetails/817893200) | Fort Smith, Arkansas | 2024-11-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817893200) |
 | [Information Technology Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/809020600) | Anywhere in the U.S. (remote job) | 2025-09-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/809020600) |
 | [Information Technology Specialist (InfoSec)](https://www.usajobs.gov:443/GetJob/ViewDetails/816948000) | Anywhere in the U.S. (remote job) | 2025-10-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816948000) |
-| [Supervisory IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818737500) | Washington, District of Columbia | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818737500) |
 | [Information Technology Specialist (InfoSec)](https://www.usajobs.gov:443/GetJob/ViewDetails/762210500) | Location Negotiable After Selection | 2024-11-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/762210500) |
+| [Supervisory IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818737500) | Washington, District of Columbia | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818737500) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/813612000) | Camp Murray, Washington | 2024-11-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/813612000) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/817946100) | Southport, North Carolina | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817946100) |
 | [Lead Information Technology Specialist (Information Security)](https://www.usajobs.gov:443/GetJob/ViewDetails/817959100) | Fort Riley, Kansas | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817959100) |
@@ -226,9 +225,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/810685300) | Boise, Idaho | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/810685300) |
 | [IT SPECIALIST (INFOSEC)(Title 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/817613300) | East Granby, Connecticut | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817613300) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818605500) | Hill AFB, Utah | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818605500) |
-| [SENIOR OFFICER-CHIEF INFORMATION SECURITY OFFICER](https://www.usajobs.gov:443/GetJob/ViewDetails/818145000) | Washington, District of Columbia | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818145000) |
 | [Information Security Specialist (TITLE 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/817405000) | Salt Lake City, Utah | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817405000) |
 | [Information Security Specialist (TITLE 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/817411900) | Salt Lake City, Utah | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817411900) |
+| [Supervisory Information Technology Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818764100) | Washington, District of Columbia | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818764100) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/819158200) | Multiple Locations | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819158200) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818701900) | Eglin AFB, Florida | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818701900) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818851100) | Hickam AFB, Hawaii | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818851100) |
@@ -284,12 +283,12 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Computer Scientist](https://www.usajobs.gov:443/GetJob/ViewDetails/818473100) | Honolulu, Hawaii | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818473100) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/817945400) | Southport, North Carolina | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817945400) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/817944900) | Southport, North Carolina | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817944900) |
-| [High Performance Computing (HPC) Systems Administrator/HPC Specialist - Mid to Expert (Maryland)](https://www.usajobs.gov:443/GetJob/ViewDetails/817782600) | Fort Meade, Maryland | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817782600) |
 | [ITSPEC (CUSTSPT)](https://www.usajobs.gov:443/GetJob/ViewDetails/810088100) | Cheyenne, Wyoming | 2025-09-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/810088100) |
 | [Supervisory Network Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/792875200) | Chesapeake, Virginia | 2025-05-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/792875200) |
 | [Information Technology Specialist (Network) NF-04](https://www.usajobs.gov:443/GetJob/ViewDetails/802935100) | Honolulu, Hawaii | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802935100) |
 | [ITSPEC (CUSTOMER SUPPORT)](https://www.usajobs.gov:443/GetJob/ViewDetails/806611100) | Eielson AFB, Alaska | 2025-08-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/806611100) |
 | [Information Technology (IT) Specialist (INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818967600) | Wiesbaden, Germany | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818967600) |
+| [IT SPECIALIST (SYSADMIN) (Title 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/818803000) | Kelly AFB, Texas | 2024-11-28 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818803000) |
 | [Program Assistant](https://www.usajobs.gov:443/GetJob/ViewDetails/818182400) | Chicago, Illinois | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818182400) |
 | [Supervisory Federal Air Marshal (Lateral)](https://www.usajobs.gov:443/GetJob/ViewDetails/818655700) | Chicago, Illinois | 2024-11-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818655700) |
 | [Supervisory Federal Air Marshal (Promotional)](https://www.usajobs.gov:443/GetJob/ViewDetails/818655800) | Chicago, Illinois | 2024-11-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818655800) |
@@ -335,8 +334,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [GENERAL ENGINEERING](https://www.usajobs.gov:443/GetJob/ViewDetails/807709700) | Reno, Nevada | 2025-09-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/807709700) |
 | [Engineering Technician (Civil)](https://www.usajobs.gov:443/GetJob/ViewDetails/817789700) | Hendersonville, Tennessee | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817789700) |
 | [STUDENT TRAINEE (ENGINEERING AND ARCHITECTURE)](https://www.usajobs.gov:443/GetJob/ViewDetails/814069400) | New York, New York | 2024-12-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814069400) |
-| [ENGINEERING TECHNICIAN](https://www.usajobs.gov:443/GetJob/ViewDetails/812929400) | Bremerton, Washington | 2025-06-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/812929400) |
 | [Engineering Technician (Civil)](https://www.usajobs.gov:443/GetJob/ViewDetails/817789300) | Hendersonville, Tennessee | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817789300) |
+| [ENGINEERING TECHNICIAN](https://www.usajobs.gov:443/GetJob/ViewDetails/812929400) | Bremerton, Washington | 2025-06-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/812929400) |
 | [Engineering Technician (Electrical)](https://www.usajobs.gov:443/GetJob/ViewDetails/818197200) | Lockport, Illinois | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818197200) |
 | [Engineering Technician (Electrical)](https://www.usajobs.gov:443/GetJob/ViewDetails/818197600) | Lockport, Illinois | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818197600) |
 | [ENGINEERING TECHNICIAN (Civil)](https://www.usajobs.gov:443/GetJob/ViewDetails/818273000) | Hill AFB, Utah | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818273000) |
@@ -355,17 +354,17 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Cybersecurity Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/817615600) | Virginia Beach, Virginia | 2025-02-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817615600) |
 | [ENGINEER/SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/802266100) | Dam Neck Naval Facility, Virginia Beach, Virginia | 2025-01-27 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/802266100) |
 | [Mechanical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/805706400) | Fort Irwin, California | 2025-02-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/805706400) |
-| [Electrical and Maintenance Supervisor-DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/GetJob/ViewDetails/815352300) | Edwards AFB, California | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/815352300) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/800892500) | Pittsburgh, Pennsylvania | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800892500) |
 | [Civil Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/762335000) | Rock Island, Illinois | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/762335000) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/817410700) | Fort Irwin, California | 2025-05-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817410700) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/782771800) | Rock Island, Illinois | 2025-03-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/782771800) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/817361600) | Fort Irwin, California | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817361600) |
-| [GENERAL ENGINEER-DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/GetJob/ViewDetails/818735900) | Hill AFB, Utah | 2024-12-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818735900) |
 | [SUPERVISORY CIVIL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/816616800) | Pittsburgh, Pennsylvania | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816616800) |
+| [GENERAL ENGINEER-DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/GetJob/ViewDetails/818735900) | Hill AFB, Utah | 2024-12-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818735900) |
 | [SUPERVISORY CIVIL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/816626500) | Pittsburgh, Pennsylvania | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816626500) |
 | [SUPERVISORY GENERAL ENGINEER-DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/GetJob/ViewDetails/819288500) | Warren AFB, Wyoming | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819288500) |
 | [Patent Examiner (Computer Engineer and comparable STEM backgrounds)](https://www.usajobs.gov:443/GetJob/ViewDetails/804338300) | Anywhere in the U.S. (remote job) | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/804338300) |
+| [Patent Examiner (Electrical Engineering and comparable STEM backgrounds)](https://www.usajobs.gov:443/GetJob/ViewDetails/804333100) | Anywhere in the U.S. (remote job) | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/804333100) |
 | [Mechanical Engineer - DIRECT HIRE](https://www.usajobs.gov:443/GetJob/ViewDetails/794303500) | Multiple Locations | 2025-06-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794303500) |
 | [Lead Mechnical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/788145000) | Baltimore, Maryland | 2025-04-24 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/788145000) |
 | [ENGINEERING TECHNICIAN (MECHANICAL)](https://www.usajobs.gov:443/GetJob/ViewDetails/818105500) | Bremerton, Washington | 2024-12-11 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818105500) |
@@ -406,7 +405,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/814220100) | Dahlgren, Virginia | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814220100) |
 | [Electrical Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/818838300) | Farmington, New Mexico | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818838300) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/801299300) | Cherry Point, North Carolina | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/801299300) |
-| [Patent Examiner (Electrical Engineering and comparable STEM backgrounds)](https://www.usajobs.gov:443/GetJob/ViewDetails/804333100) | Anywhere in the U.S. (remote job) | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/804333100) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/817223300) | Washington Navy Yard, District of Columbia | 2024-12-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817223300) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/789024400) | Kings Bay Naval Base, Georgia | 2024-12-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/789024400) |
 | [ELECTRICAL ENGINEER](https://www.usajobs.gov:443/GetJob/ViewDetails/807369200) | Dahlgren, Virginia | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/807369200) |
@@ -652,7 +650,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Data Analytics Specialist (Title 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/817614500) | Draper, Utah | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817614500) |
 | [Chief Data and Analytics Officer](https://www.usajobs.gov:443/GetJob/ViewDetails/815627000) | Washington, District of Columbia | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/815627000) |
 | [Program Analyst (Data Analytics), GS-343-14 MP](https://www.usajobs.gov:443/GetJob/ViewDetails/818675100) | Alexandria, Virginia | 2024-11-27 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818675100) |
-| [Local Hire (Geospatial Data Analytics and Cell Analyst)](https://www.usajobs.gov:443/GetJob/ViewDetails/817331300) | Columbia, South Carolina | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817331300) |
 | [Financial and Analytics Director](https://www.usajobs.gov:443/GetJob/ViewDetails/819251700) | Multiple Locations | 2024-12-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819251700) |
 | [Financial and Analytics Director](https://www.usajobs.gov:443/GetJob/ViewDetails/819252100) | Multiple Locations | 2024-12-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819252100) |
 | [Economist (RAMP)](https://www.usajobs.gov:443/GetJob/ViewDetails/809446700) | Washington, District of Columbia | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/809446700) |
@@ -666,6 +663,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Economist](https://www.usajobs.gov:443/GetJob/ViewDetails/817189500) | Anywhere in the U.S. (remote job) | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817189500) |
 | [Security Guard](https://www.usajobs.gov:443/GetJob/ViewDetails/769287200) | Redstone Arsenal, Alabama | 2025-01-03 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/769287200) |
 | [Security Guard](https://www.usajobs.gov:443/GetJob/ViewDetails/794603300) | Chambersburg, Pennsylvania | 2024-12-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794603300) |
+| [Electronics Worker](https://www.usajobs.gov:443/GetJob/ViewDetails/794953500) | Fort Moore, Georgia | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/794953500) |
 | [SR COMPLIANCE DATA OFFICER](https://www.usajobs.gov:443/GetJob/ViewDetails/816398500) | Anywhere in the U.S. (remote job) | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816398500) |
 | [Management Analyst](https://www.usajobs.gov:443/GetJob/ViewDetails/818557200) | Washington, District of Columbia | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818557200) |
 | [Land Law Examiner](https://www.usajobs.gov:443/GetJob/ViewDetails/817666300) | Carlsbad, New Mexico | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817666300) |
@@ -729,8 +727,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [COMPUTER SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/817877700) | Eglin AFB, Florida | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817877700) |
 | [COMPUTER SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/818153000) | Stennis Space Center, Mississippi | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818153000) |
 | [Public Notice for Direct Hire Authority - Data Scientist](https://www.usajobs.gov:443/GetJob/ViewDetails/805526900) | Rockville, Maryland | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/805526900) |
-| [Public Affairs Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/816911900) | Montgomery County, Maryland | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816911900) |
-| [Public Affairs Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/817983800) | Montgomery County, Maryland | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817983800) |
 | [Visual Information Technician](https://www.usajobs.gov:443/GetJob/ViewDetails/818002700) | Whitehall, Ohio | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818002700) |
 | [Program Analyst (Data)](https://www.usajobs.gov:443/GetJob/ViewDetails/818535700) | Anywhere in the U.S. (remote job) | 2024-11-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818535700) |
 | [SENIOR TAX ANALYST 9 Month Roster](https://www.usajobs.gov:443/GetJob/ViewDetails/800066900) | Multiple Locations | 2025-04-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/800066900) |
@@ -738,6 +734,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Audiovisual Production Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/817689500) | Washington, District of Columbia | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817689500) |
 | [INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN/APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/818728900) | Bethesda, Maryland | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818728900) |
 | [Visual Information Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/817761700) | Washington, District of Columbia | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817761700) |
+| [Program Analyst](https://www.usajobs.gov:443/GetJob/ViewDetails/818570900) | Anywhere in the U.S. (remote job) | 2024-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818570900) |
+| [DST Data Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/757695300) | Washington DC, District of Columbia | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757695300) |
 | [INTERDISCIPLINARY (INSTRUCTOR)](https://www.usajobs.gov:443/GetJob/ViewDetails/814060000) | Naval Base, Norfolk, Virginia | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814060000) |
 | [IT Specialist (APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/819312500) | Anywhere in the U.S. (remote job) | 2024-11-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819312500) |
 | [IT Specialist (APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/819313300) | Anywhere in the U.S. (remote job) | 2024-11-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819313300) |
@@ -785,7 +783,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT Specialist (APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/818575900) | Multiple Locations | 2024-11-17 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818575900) |
 | [HUMAN RESOURCES SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/817719700) | Forbes AFB, Kansas | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817719700) |
 | [DIRECTOR OF FORCE SUPPORT](https://www.usajobs.gov:443/GetJob/ViewDetails/815686600) | Kirtland AFB, New Mexico | 2024-12-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/815686600) |
-| [DST Data Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/757695300) | Washington DC, District of Columbia | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757695300) |
 | [LEAD MANAGEMENT & PROGRAM SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/818418800) | Pentagon, Arlington, Virginia | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818418800) |
 | [ENGINEER/SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/816135300) | Dahlgren, Virginia | 2025-10-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816135300) |
 | [SURVEY STATISTICIAN (ECONOMICS)](https://www.usajobs.gov:443/GetJob/ViewDetails/819366400) | Washington, District of Columbia | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819366400) |
@@ -845,7 +842,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Public Notice for Direct Hire - IT Cybersecurity Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/795437500) | Anywhere in the U.S. (remote job) | 2025-01-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795437500) |
 | [Public Notice for Direct Hire - IT Cybersecurity Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/795439700) | Multiple Locations | 2025-01-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/795439700) |
 | [Foreign Service Diplomatic Technology Officer (FP 2885)](https://www.usajobs.gov:443/GetJob/ViewDetails/811765300) | Department of State Posts - Overseas and Domestic | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/811765300) |
-| [IT SPECIALIST (APPSW) (STEM)](https://www.usajobs.gov:443/GetJob/ViewDetails/817511600) | Washington, District of Columbia | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817511600) |
 | [Assistant General Counsel](https://www.usajobs.gov:443/GetJob/ViewDetails/808697800) | Washington, District of Columbia | 2025-09-17 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/808697800) |
 | [Interdisciplinary Engineer/Scientist](https://www.usajobs.gov:443/GetJob/ViewDetails/817830900) | Aberdeen Proving Ground, Maryland | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817830900) |
 | [IT SPECIALIST (NETWORK/SYSADMIN)](https://www.usajobs.gov:443/GetJob/ViewDetails/819068500) | Fort Huachuca, Arizona | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819068500) |
@@ -877,7 +873,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT SPECIALIST (DATA MANAGEMENT)](https://www.usajobs.gov:443/GetJob/ViewDetails/818204600) | Raleigh, North Carolina | 2024-12-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818204600) |
 | [Data Scientist](https://www.usajobs.gov:443/GetJob/ViewDetails/817124000) | North Chicago, Illinois | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817124000) |
 | [SUPERVISORY IT SPECIALIST (OPERATING SYSTEMS)](https://www.usajobs.gov:443/GetJob/ViewDetails/818216800) | Fort Leavenworth, Kansas | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818216800) |
-| [Supervisory IT Cybersecurity Specialist (PLCYPLN-INFOSEC)](https://www.usajobs.gov:443/GetJob/ViewDetails/818240200) | Kearneysville, West Virginia | 2024-11-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818240200) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/819089200) | Grandview, Missouri | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819089200) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/819091800) | Grandview, Missouri | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819091800) |
 | [INFORMATION TECHNOLOGY SPECIALIST (SYSADMIN/APPSW)](https://www.usajobs.gov:443/GetJob/ViewDetails/818728900) | Bethesda, Maryland | 2024-11-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818728900) |
@@ -893,10 +888,10 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Security Control Assessor (SCA)](https://www.usajobs.gov:443/GetJob/ViewDetails/817613600) | Virginia Beach, Virginia | 2025-02-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817613600) |
 | [Cybersecurity System Validator](https://www.usajobs.gov:443/GetJob/ViewDetails/817614100) | Virginia Beach, Virginia | 2025-02-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817614100) |
 | [IT Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/817681100) | Washington, District of Columbia | 2024-11-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/817681100) |
+| [ENGINEER/SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/813620100) | Naples, Italy | 2025-01-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/813620100) |
 | [Cyber Security Officer](https://www.usajobs.gov:443/GetJob/ViewDetails/759309400) | Washington DC, District of Columbia | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/759309400) |
 | [IT Specialist (INFOSEC), CG-2210-14](https://www.usajobs.gov:443/GetJob/ViewDetails/818816900) | Washington, District of Columbia | 2024-11-27 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/818816900) |
 | [Information Technology Cyber Security Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/819174700) | Washington, District of Columbia | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819174700) |
-| [ENGINEER/SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/813620100) | Naples, Italy | 2025-01-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/813620100) |
 | [Extended Reality Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/757701400) | Washington DC, District of Columbia | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757701400) |
 | [Research Hydrologist/Research Agricultural Engineer/Research Civil Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/814865800) | El Reno, Oklahoma | 2024-11-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814865800) |
 | [Physical Scientist (Program Director)](https://www.usajobs.gov:443/GetJob/ViewDetails/814826200) | Alexandria, Virginia | 2024-11-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814826200) |
@@ -924,8 +919,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Student Trainee (Exam Finance)](https://www.usajobs.gov:443/GetJob/ViewDetails/814080500) | Multiple Locations | 2024-12-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814080500) |
 | [Student Trainee (Law)](https://www.usajobs.gov:443/GetJob/ViewDetails/814082200) | Washington, District of Columbia | 2024-12-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814082200) |
 | [FAA Internship: Minority Serving Institutions Program](https://www.usajobs.gov:443/GetJob/ViewDetails/814745100) | Multiple Locations | 2024-11-29 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814745100) |
-| [STEM/Arts Undergraduate Internship/Co-op](https://www.usajobs.gov:443/GetJob/ViewDetails/757883600) | Washington DC, District of Columbia | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757883600) |
 | [Engineering Extern (Student Trainee) - Pathways Internship](https://www.usajobs.gov:443/GetJob/ViewDetails/816717700) | Multiple Locations | 2025-04-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/816717700) |
+| [STEM/Arts Undergraduate Internship/Co-op](https://www.usajobs.gov:443/GetJob/ViewDetails/757883600) | Washington DC, District of Columbia | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/757883600) |
 | [DOJ Pathways Internship Program - Bureau of Prisons (Human Resource Student Trainee)](https://www.usajobs.gov:443/GetJob/ViewDetails/819253900) | Bennettsville, South Carolina | 2024-11-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819253900) |
 | [DOJ Pathways Internship Program - Bureau of Prisons (Social Sciences Student Trainee)](https://www.usajobs.gov:443/GetJob/ViewDetails/819172500) | Bennettsville, South Carolina | 2024-11-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819172500) |
 | [IRS Internship Student Trainee (Clerical/OA) (6 Month Roster)](https://www.usajobs.gov:443/GetJob/ViewDetails/814699200) | Multiple Locations | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/814699200) |
@@ -1038,5 +1033,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2024-11-17 01:35:10 UTC*
+*Last Updated: 2024-11-18 01:25:53 UTC*
 
