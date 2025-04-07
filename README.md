@@ -71,9 +71,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Prosthetic Representative (Assistant Chief)](https://www.usajobs.gov:443/GetJob/ViewDetails/834167700) | Memphis, Tennessee | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834167700) |
 | [Wildland Firefighter (Fuels) - Direct Hire Authority](https://www.usajobs.gov:443/GetJob/ViewDetails/833765800) | Multiple Locations | 2025-04-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/833765800) |
 | [Supervisory Recreation Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/834775500) | Virginia Beach, Virginia | 2025-04-12 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834775500) |
-| [CYP Child and Youth Program Operations Clerk](https://www.usajobs.gov:443/GetJob/ViewDetails/834298800) | San Diego, California | 2025-04-05 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834298800) |
 | [CYP Operations Clerk](https://www.usajobs.gov:443/GetJob/ViewDetails/834752200) | Newport News, Virginia | 2025-04-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834752200) |
 | [Aviation Safety Technician](https://www.usajobs.gov:443/GetJob/ViewDetails/834236900) | Ankeny, Iowa | 2025-04-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834236900) |
+| [Aviation Safety Technician](https://www.usajobs.gov:443/GetJob/ViewDetails/834239000) | Ankeny, Iowa | 2025-04-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834239000) |
 | [Child and Youth Program Assistant - Full Time](https://www.usajobs.gov:443/GetJob/ViewDetails/834757300) | Panama City, Florida | 2025-05-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834757300) |
 | [Budget Assistant NF-03](https://www.usajobs.gov:443/GetJob/ViewDetails/834475900) | Fort Riley, Kansas | 2025-04-14 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834475900) |
 | [SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/GetJob/ViewDetails/820107600) | Hastings, Nebraska | 2025-09-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/820107600) |
@@ -594,11 +594,11 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [PROGRAM ANALYST](https://www.usajobs.gov:443/GetJob/ViewDetails/834525000) | Broadway Complex, San Diego, California | 2025-04-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834525000) |
 | [PRODUCTION WORKFORCE SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/834670000) | Pearl Harbor Naval Base, Oahu, Hawaii | 2025-04-14 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834670000) |
 | [Human Resources Specialist (Talent Acquisition)](https://www.usajobs.gov:443/GetJob/ViewDetails/834390300) | Washington, District of Columbia | 2025-04-15 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834390300) |
-| [Assistant Systems Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/830427000) | New Orleans, Louisiana | 2025-04-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/830427000) |
 | [Occupational Therapist](https://www.usajobs.gov:443/GetJob/ViewDetails/834330100) | Fort Wayne, Indiana | 2025-04-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834330100) |
 | [Clinical Laboratory Scientist (Laboratory Information Manager)](https://www.usajobs.gov:443/GetJob/ViewDetails/834452200) | San Diego, California | 2025-04-07 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834452200) |
 | [Nursing Assistant](https://www.usajobs.gov:443/GetJob/ViewDetails/834775200) | Detroit, Michigan | 2025-04-11 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834775200) |
 | [Licensed Practical Nurse](https://www.usajobs.gov:443/GetJob/ViewDetails/834787500) | Pontiac, Michigan | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834787500) |
+| [Assistant Systems Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/830427000) | New Orleans, Louisiana | 2025-04-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/830427000) |
 | [TRAINING INSTRUCTOR](https://www.usajobs.gov:443/GetJob/ViewDetails/797586700) | Multiple Locations | 2025-06-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/797586700) |
 | [Director of Training and Development #261](https://www.usajobs.gov:443/GetJob/ViewDetails/834238000) | Washington DC, District of Columbia | 2025-04-08 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834238000) |
 | [SUPERVISOR INVENTORY MANAGEMENT SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/834475400) | Kings Bay, Georgia | 2025-04-08 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834475400) |
@@ -797,5 +797,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2025-04-06 01:38:32 UTC*
+*Last Updated: 2025-04-07 01:36:49 UTC*
 
