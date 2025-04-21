@@ -62,7 +62,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Visitor Services Assistant (Seasonal)](https://www.usajobs.gov:443/GetJob/ViewDetails/834829800) | Springfield, Illinois | 2025-04-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834829800) |
 | [Supervisory Facilities Operations Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/835458900) | Suitland, Maryland | 2025-05-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835458900) |
 | [Supervisory Facilities Operations Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/835460600) | Suitland, Maryland | 2025-05-02 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835460600) |
-| [Community Recreation Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/834804800) | Bremerton, Washington | 2025-04-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834804800) |
 | [Community Recreation Manager](https://www.usajobs.gov:443/GetJob/ViewDetails/834932900) | Oak Harbor, Washington | 2025-04-24 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834932900) |
 | [Prosthetic Representative (Assistant Chief)](https://www.usajobs.gov:443/GetJob/ViewDetails/834167700) | Memphis, Tennessee | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834167700) |
 | [Supervisory Recreation Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/835263000) | Washington, District of Columbia | 2025-04-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835263000) |
@@ -75,6 +74,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Child and Youth Program Assistant - Full Time](https://www.usajobs.gov:443/GetJob/ViewDetails/834757300) | Panama City, Florida | 2025-05-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834757300) |
 | [PRECISION STRIKE MISSION PLANNING ANALYST](https://www.usajobs.gov:443/GetJob/ViewDetails/829792800) | Camp H.M. Smith Marine Corp Base, Hawaii | 2025-04-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/829792800) |
 | [Project Engineer (RIDP) - Direct Hire Notice for Regions I, II, III & IV](https://www.usajobs.gov:443/GetJob/ViewDetails/835068300) | Multiple Locations | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835068300) |
+| [Administrative Support Assistant (Work and Family Life)](https://www.usajobs.gov:443/GetJob/ViewDetails/834936100) | Kitsap County, Washington | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834936100) |
 | [SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/GetJob/ViewDetails/820107600) | Hastings, Nebraska | 2025-09-26 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/820107600) |
 | [SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/GetJob/ViewDetails/834872100) | Fort Richardson, Alaska | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834872100) |
 | [SUPERVISORY SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/GetJob/ViewDetails/831374600) | Fallon, Nevada | 2025-05-13 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/831374600) |
@@ -355,7 +355,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Engineers/Scientists/Mathematics/Statistics](https://www.usajobs.gov:443/GetJob/ViewDetails/826403300) | Multiple Locations | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/826403300) |
 | [Engineers/Scientists/Mathematics/Statistics](https://www.usajobs.gov:443/GetJob/ViewDetails/826407100) | Multiple Locations | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/826407100) |
 | [Project Engineer (RIDP) - Direct Hire Notice for Regions I, II, III & IV](https://www.usajobs.gov:443/GetJob/ViewDetails/835068300) | Multiple Locations | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835068300) |
-| [INDUSTRIAL HYGIENIST](https://www.usajobs.gov:443/GetJob/ViewDetails/833943100) | Mansfield, Ohio | 2025-04-19 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/833943100) |
 | [Public Notice for General Engineer (Direct Hire)](https://www.usajobs.gov:443/GetJob/ViewDetails/686669900) | May be filled in various FAA duty locations | 2025-09-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/686669900) |
 | [Public Notice for General Engineer (Direct Hire)](https://www.usajobs.gov:443/GetJob/ViewDetails/684260400) | May be filled in various FAA duty locations | 2025-09-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/684260400) |
 | [Chemist](https://www.usajobs.gov:443/GetJob/ViewDetails/825861100) | Multiple Locations | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/825861100) |
@@ -366,6 +365,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [MWR Recreation Assistant Lifeguard (First cutoff 4/17/2025)](https://www.usajobs.gov:443/GetJob/ViewDetails/835112100) | Lemoore, California | 2025-05-10 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835112100) |
 | [Seasonal Recreation Aide/Assistant (Pool Lifeguard)](https://www.usajobs.gov:443/GetJob/ViewDetails/835305900) | Mayport, Florida | 2025-04-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835305900) |
 | [Industrial Hygienist](https://www.usajobs.gov:443/GetJob/ViewDetails/832635000) | Tulsa, Oklahoma | 2025-04-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/832635000) |
+| [MWR Recreation Assistant (Ocean Lifeguard)](https://www.usajobs.gov:443/GetJob/ViewDetails/834804200) | Coronado, CA  | 2025-05-04 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834804200) |
 | [Aerospace Engineer (Systems)](https://www.usajobs.gov:443/GetJob/ViewDetails/834015900) | Washington, District of Columbia | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834015900) |
 | [Aerospace Engineer (Structures)](https://www.usajobs.gov:443/GetJob/ViewDetails/833969100) | Washington, District of Columbia | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/833969100) |
 | [Aerospace Engineer (Systems)](https://www.usajobs.gov:443/GetJob/ViewDetails/834015500) | Washington, District of Columbia | 2025-04-21 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/834015500) |
@@ -420,6 +420,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Project Manager (Interdisciplinary)](https://www.usajobs.gov:443/GetJob/ViewDetails/825915200) | Multiple Locations | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/825915200) |
 | [Project Manager (Interdisciplinary)](https://www.usajobs.gov:443/GetJob/ViewDetails/825916700) | Multiple Locations | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/825916700) |
 | [Industrial Equipment Mechanic](https://www.usajobs.gov:443/GetJob/ViewDetails/833166900) | Tulsa, Oklahoma | 2025-04-25 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/833166900) |
+| [Management and Program Analyst](https://www.usajobs.gov:443/GetJob/ViewDetails/835079000) | Glen Burnie, Maryland | 2025-04-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835079000) |
 | [ENGINEER/SCIENTIST](https://www.usajobs.gov:443/GetJob/ViewDetails/790997600) | Dam Neck Naval Facility, Virginia Beach, Virginia | 2025-05-12 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/790997600) |
 | [Electronics Engineer (Validation Group)](https://www.usajobs.gov:443/GetJob/ViewDetails/819076200) | McClellan, California | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/819076200) |
 | [Interdisciplinary General Engineer](https://www.usajobs.gov:443/GetJob/ViewDetails/835175300) | Chesapeake, Virginia | 2026-04-06 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835175300) |
@@ -780,5 +781,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2025-04-20 01:41:16 UTC*
+*Last Updated: 2025-04-21 01:40:30 UTC*
 
