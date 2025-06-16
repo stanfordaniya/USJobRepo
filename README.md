@@ -33,8 +33,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT SPECIALIST (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/838270500) | Fort Meade Naval Facilities, Maryland | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838270500) |
 | [IT SPEC (SYSANALYSIS)](https://www.usajobs.gov:443/GetJob/ViewDetails/835382400) | McChord AFB, Washington | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835382400) |
 | [IT Asset Management Specialist](https://www.usajobs.gov:443/GetJob/ViewDetails/838784600) | Washington, District of Columbia | 2025-06-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838784600) |
-| [IT SPECIALIST (SYSADMIN)](https://www.usajobs.gov:443/GetJob/ViewDetails/838613000) | Otis ANG Base, Massachusetts | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838613000) |
 | [SUPV IT SPECIALIST (PLCYPLN)](https://www.usajobs.gov:443/GetJob/ViewDetails/838473500) | Otis ANG Base, Massachusetts | 2025-06-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838473500) |
+| [IT SPECIALIST (SYSADMIN)](https://www.usajobs.gov:443/GetJob/ViewDetails/838613000) | Otis ANG Base, Massachusetts | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838613000) |
 | [IT Strategic Analyst](https://www.usajobs.gov:443/GetJob/ViewDetails/838669700) | Multiple Locations | 2025-06-22 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838669700) |
 | [IT SPECIALIST (ENTARCH) TITLE 32](https://www.usajobs.gov:443/GetJob/ViewDetails/838125400) | Springfield, Illinois | 2026-06-08 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838125400) |
 | [IT SPECIALIST (NETWORK) (TITLE 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/838196300) | MacDill AFB, Florida | 2025-06-20 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838196300) |
@@ -66,8 +66,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Quality Review Analyst NF-04](https://www.usajobs.gov:443/GetJob/ViewDetails/838453700) | Fort McCoy, Wisconsin | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838453700) |
 | [Administrative Support Assistant (CYS) (Developmental) NF-02/03](https://www.usajobs.gov:443/GetJob/ViewDetails/837917400) | Redstone Arsenal, Alabama | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/837917400) |
 | [Administrative Support Assistant (CYS) (Developmental) NF-02/03](https://www.usajobs.gov:443/GetJob/ViewDetails/838016500) | Fort Wainwright, Alaska | 2025-06-17 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838016500) |
-| [SECTOR ENFORCEMENT SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/838530800) | Orlando, Florida | 2025-06-17 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838530800) |
 | [Staff Curator (Museum Management)](https://www.usajobs.gov:443/GetJob/ViewDetails/838698800) | Washington Navy Yard, District of Columbia | 2025-06-16 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838698800) |
+| [SECTOR ENFORCEMENT SPECIALIST](https://www.usajobs.gov:443/GetJob/ViewDetails/838530800) | Orlando, Florida | 2025-06-17 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838530800) |
 | [MATERIALS HANDLER (Title 32)](https://www.usajobs.gov:443/GetJob/ViewDetails/837660000) | Fort Smith, Arkansas | 2025-06-27 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/837660000) |
 | [Advanced Prosthetist Orthotist](https://www.usajobs.gov:443/GetJob/ViewDetails/835141500) | Syracuse, New York | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/835141500) |
 | [Operations Research Analyst](https://www.usajobs.gov:443/GetJob/ViewDetails/838605700) | Washington, District of Columbia | 2025-06-18 | [Apply Here](https://www.usajobs.gov:443/GetJob/ViewDetails/838605700) |
@@ -825,5 +825,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2025-06-15 01:52:12 UTC*
+*Last Updated: 2025-06-16 01:46:53 UTC*
 
