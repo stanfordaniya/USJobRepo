@@ -29,11 +29,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [SUPV IT SPECIALIST](https://www.usajobs.gov:443/job/839941700) | Camp H.M. Smith Marine Corp Base, Hawaii | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839941700) |
 | [IT SPECIALIST (NETWORK) (T32)](https://www.usajobs.gov:443/job/839044100) | Dothan, Alabama | 2025-07-18 | [Apply Here](https://www.usajobs.gov:443/job/839044100) |
 | [IT SPECIALIST (PLCYPLN)](https://www.usajobs.gov:443/job/839467500) | Indiantown Gap, Pennsylvania | 2025-07-23 | [Apply Here](https://www.usajobs.gov:443/job/839467500) |
-| [IT PROGRAM MANAGER (APPSW)](https://www.usajobs.gov:443/job/839697000) | Arlington, Virginia | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839697000) |
 | [IT SPECIALIST (SYSADMIN)](https://www.usajobs.gov:443/job/838617700) | State College, Pennsylvania | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/838617700) |
 | [IT Project Manager (APPSW)](https://www.usajobs.gov:443/job/839716900) | Multiple Locations | 2025-07-06 | [Apply Here](https://www.usajobs.gov:443/job/839716900) |
 | [IT SPECIALIST (APPSW)](https://www.usajobs.gov:443/job/839558200) | Boise, Idaho | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839558200) |
-| [IT SPECIALIST (NETWORK) T32](https://www.usajobs.gov:443/job/839188000) | Tucson, Arizona | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839188000) |
 | [IT SPECIALIST (APPSW/INET)](https://www.usajobs.gov:443/job/839557400) | Boise, Idaho | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839557400) |
 | [SUPV IT SPEC (NETWORK)](https://www.usajobs.gov:443/job/839748300) | Syracuse, New York | 2025-07-30 | [Apply Here](https://www.usajobs.gov:443/job/839748300) |
 | [IT SPECIALIST (CUSTSPT)](https://www.usajobs.gov:443/job/839632800) | Fort Belvoir, Virginia | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839632800) |
@@ -42,6 +40,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT SPECIALIST (INFOSEC/NETWORK)](https://www.usajobs.gov:443/job/840009700) | McConnell AFB, Kansas | 2025-07-16 | [Apply Here](https://www.usajobs.gov:443/job/840009700) |
 | [IT SPECIALIST (ENTARCH) TITLE 32](https://www.usajobs.gov:443/job/838125400) | Springfield, Illinois | 2026-06-08 | [Apply Here](https://www.usajobs.gov:443/job/838125400) |
 | [IT Specialist (DATAMGT)](https://www.usajobs.gov:443/job/839372900) | Washington, District of Columbia | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839372900) |
+| [IT SPECIALIST (NETWORK) - Title 32](https://www.usajobs.gov:443/job/839482700) | Milwaukee, Wisconsin | 2025-08-06 | [Apply Here](https://www.usajobs.gov:443/job/839482700) |
 | [Information Technology Specialist (Application Software)](https://www.usajobs.gov:443/job/839903000) | Location Negotiable After Selection | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839903000) |
 | [Information Technology Specialist (Application Software)](https://www.usajobs.gov:443/job/839903500) | Location Negotiable After Selection | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839903500) |
 | [IT SPECIALIST (APPSW)](https://www.usajobs.gov:443/job/839524600) | Multiple Locations | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839524600) |
@@ -81,10 +80,10 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [CYP Operations Clerk](https://www.usajobs.gov:443/job/839417500) | Mayport Naval Station, Florida | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839417500) |
 | [CYP Operations Clerk](https://www.usajobs.gov:443/job/839500500) | Point Mugu, California | 2025-07-06 | [Apply Here](https://www.usajobs.gov:443/job/839500500) |
 | [CYP Operations Clerk May be Eligible for 1000.00 Incentive at 6 mo. and 1 year](https://www.usajobs.gov:443/job/839560600) | Great Lakes, Illinois | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/job/839560600) |
-| [CYP Child and Youth Program Operations Clerk](https://www.usajobs.gov:443/job/839781100) | San Diego, California | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839781100) |
 | [CYP Child and Youth Program Operations Clerk](https://www.usajobs.gov:443/job/839850900) | Point Loma Complex, San Diego, California | 2025-07-20 | [Apply Here](https://www.usajobs.gov:443/job/839850900) |
 | [CYP Operations Clerk](https://www.usajobs.gov:443/job/839928100) | Naval Air Station Jacksonville, Florida | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839928100) |
 | [CYP Operations Clerk](https://www.usajobs.gov:443/job/840077100) | Oak Harbor, WA  | 2025-07-31 | [Apply Here](https://www.usajobs.gov:443/job/840077100) |
+| [CYP Operations Clerk - CDC, PMRF](https://www.usajobs.gov:443/job/840125700) | Kauai Island, Hawaii | 2025-08-01 | [Apply Here](https://www.usajobs.gov:443/job/840125700) |
 | [Supply Systems Analyst](https://www.usajobs.gov:443/job/839720100) | Philadelphia, Pennsylvania | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839720100) |
 | [SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/job/838383900) | Columbus, Ohio | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/838383900) |
 | [SUPPLY SYSTEMS ANALYST - Title 32](https://www.usajobs.gov:443/job/838212800) | Camp Douglas, Wisconsin | 2025-07-06 | [Apply Here](https://www.usajobs.gov:443/job/838212800) |
@@ -110,7 +109,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [PROGRAM ANALYST](https://www.usajobs.gov:443/job/839879500) | Rancho Cordova, California | 2025-07-23 | [Apply Here](https://www.usajobs.gov:443/job/839879500) |
 | [IT CYBERSECURITY SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/839844200) | Multiple Locations | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839844200) |
 | [IT SPECIALIST (NETWORK)(Title 32)](https://www.usajobs.gov:443/job/839861500) | Hartford, Connecticut | 2025-07-15 | [Apply Here](https://www.usajobs.gov:443/job/839861500) |
-| [IT SPECIALIST (NETWORK) - Title 32](https://www.usajobs.gov:443/job/839482700) | Milwaukee, Wisconsin | 2025-08-06 | [Apply Here](https://www.usajobs.gov:443/job/839482700) |
 | [IT SPECIALIST (INFOSEC/NETWORK) (TITLE 32)](https://www.usajobs.gov:443/job/839840600) | Alcoa, Tennessee | 2025-07-15 | [Apply Here](https://www.usajobs.gov:443/job/839840600) |
 | [Information Technology Specialist (Network)](https://www.usajobs.gov:443/job/840065300) | Multiple Locations | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/840065300) |
 | [Information Technology Specialist (Network) NF-04](https://www.usajobs.gov:443/job/835999200) | Honolulu, Hawaii | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/835999200) |
@@ -126,12 +124,14 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Nursing Assistant](https://www.usajobs.gov:443/job/839543500) | Salem, Virginia | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839543500) |
 | [Senior Social Worker (Clinical Video Telehealth)](https://www.usajobs.gov:443/job/839442500) | Anywhere in the U.S. (remote job) | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839442500) |
 | [Physician (VISN 6 Tele Emergency Care Director)](https://www.usajobs.gov:443/job/840001100) | Anywhere in the U.S. (remote job) | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/840001100) |
+| [General Health Science (Chief Health Informatics Officer)](https://www.usajobs.gov:443/job/839854800) | Fort Belvoir, Virginia | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839854800) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/job/839513400) | Camp H.M. Smith Marine Corp Base, Hawaii | 2025-07-21 | [Apply Here](https://www.usajobs.gov:443/job/839513400) |
 | [IT Specialist (SYSANALYSIS)](https://www.usajobs.gov:443/job/840008700) | Multiple Locations | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/840008700) |
 | [IT SPECIALIST (CUSTSPT)](https://www.usajobs.gov:443/job/836044400) | Naples, Italy | 2025-10-25 | [Apply Here](https://www.usajobs.gov:443/job/836044400) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/807382700) | Multiple Locations | 2025-09-02 | [Apply Here](https://www.usajobs.gov:443/job/807382700) |
 | [Supv IT Specialist (OPERATING SYSTEMS/CUSTOMER SUPPORT)](https://www.usajobs.gov:443/job/839283700) | Fort Belvoir, Virginia | 2025-07-06 | [Apply Here](https://www.usajobs.gov:443/job/839283700) |
 | [IT SPECIALIST (APPSW)](https://www.usajobs.gov:443/job/827501800) | Naval Air Station Pensacola, Florida | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/827501800) |
+| [IT Specialist (APPSW/SYSANALYSIS)](https://www.usajobs.gov:443/job/839770800) | Multiple Locations | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839770800) |
 
 ## Cybersecurity Jobs
 
@@ -152,7 +152,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)](https://www.usajobs.gov:443/job/839262500) | Arlington, Virginia | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839262500) |
 | [IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC)](https://www.usajobs.gov:443/job/839855300) | MacDill AFB, Florida | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839855300) |
 | [SUPV IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC)](https://www.usajobs.gov:443/job/839764300) | Joint Base Anacostia-Bolling, District of Columbia | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839764300) |
-| [Supervisory IT Cybersecurity Specialist (Policy and Planning/Information Security)](https://www.usajobs.gov:443/job/839644200) | Elizabeth City, North Carolina | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839644200) |
 | [Chief Information Security Officer (CISO)/Senior Agency Information Security Officer (SAISO)](https://www.usajobs.gov:443/job/839985100) | Washington, District of Columbia | 2025-07-18 | [Apply Here](https://www.usajobs.gov:443/job/839985100) |
 | [Branch Chief, Authorization Management Branch (AMB)](https://www.usajobs.gov:443/job/839720400) | Washington, District of Columbia | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839720400) |
 | [Information Technology Specialist (Security)](https://www.usajobs.gov:443/job/829630200) | Washington, District of Columbia | 2026-01-29 | [Apply Here](https://www.usajobs.gov:443/job/829630200) |
@@ -162,9 +161,10 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/807382700) | Multiple Locations | 2025-09-02 | [Apply Here](https://www.usajobs.gov:443/job/807382700) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/839723600) | Multiple Locations | 2025-08-01 | [Apply Here](https://www.usajobs.gov:443/job/839723600) |
 | [Supervisory IT Specialist (Detail)](https://www.usajobs.gov:443/job/839899400) | Washington, District of Columbia | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839899400) |
+| [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/job/839513400) | Camp H.M. Smith Marine Corp Base, Hawaii | 2025-07-21 | [Apply Here](https://www.usajobs.gov:443/job/839513400) |
 | [Security Specialist](https://www.usajobs.gov:443/job/839785900) | Washington, District of Columbia | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839785900) |
-| [Physical Security Specialist](https://www.usajobs.gov:443/job/839407200) | Washington, District of Columbia | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839407200) |
 | [Security Specialist](https://www.usajobs.gov:443/job/839786200) | Washington, District of Columbia | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839786200) |
+| [Physical Security Specialist](https://www.usajobs.gov:443/job/839407200) | Washington, District of Columbia | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839407200) |
 | [Security Assistant](https://www.usajobs.gov:443/job/839583700) | Washington, District of Columbia | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839583700) |
 | [LEAD SECURITY SPECIALIST (PORT)](https://www.usajobs.gov:443/job/839779400) | Louisville, Kentucky | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839779400) |
 | [LEAD SECURITY SPECIALIST (PORT)](https://www.usajobs.gov:443/job/839781900) | Louisville, Kentucky | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839781900) |
@@ -194,7 +194,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Chief Information Security Officer](https://www.usajobs.gov:443/job/838725500) | Washington, District of Columbia | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/838725500) |
 | [IT SPECIALIST (INFOSEC/NETWORK) (TITLE 32)](https://www.usajobs.gov:443/job/839840600) | Alcoa, Tennessee | 2025-07-15 | [Apply Here](https://www.usajobs.gov:443/job/839840600) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/839158200) | McGuire AFB, New Jersey | 2025-07-22 | [Apply Here](https://www.usajobs.gov:443/job/839158200) |
-| [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/job/839513400) | Camp H.M. Smith Marine Corp Base, Hawaii | 2025-07-21 | [Apply Here](https://www.usajobs.gov:443/job/839513400) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/832738900) | Twentynine Palms, California | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/832738900) |
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/817612400) | Port Hueneme, California | 2025-11-07 | [Apply Here](https://www.usajobs.gov:443/job/817612400) |
 | [INFORMATION TECHNOLOGY (INFOSEC/AUDITOR)](https://www.usajobs.gov:443/job/838274300) | Washington, District of Columbia | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/838274300) |
@@ -227,7 +226,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Technical Security Investigator](https://www.usajobs.gov:443/job/839969000) | Multiple Locations | 2025-07-17 | [Apply Here](https://www.usajobs.gov:443/job/839969000) |
 | [IT SPECIALIST (NETWORK) (T32)](https://www.usajobs.gov:443/job/839044100) | Dothan, Alabama | 2025-07-18 | [Apply Here](https://www.usajobs.gov:443/job/839044100) |
 | [Junior Technology Partner](https://www.usajobs.gov:443/job/839633300) | Washington, District of Columbia | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839633300) |
-| [IT SPECIALIST (NETWORK) T32](https://www.usajobs.gov:443/job/839188000) | Tucson, Arizona | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839188000) |
 | [Security Assistant](https://www.usajobs.gov:443/job/839886300) | Montgomery, Alabama | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839886300) |
 | [Biomedical Equipment Support Specialist](https://www.usajobs.gov:443/job/839468800) | Philadelphia, Pennsylvania | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839468800) |
 | [IT SPECIALIST (NETWORK)(Title 32)](https://www.usajobs.gov:443/job/839861500) | Hartford, Connecticut | 2025-07-15 | [Apply Here](https://www.usajobs.gov:443/job/839861500) |
@@ -540,7 +538,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [SUPVERISORY MANAGEMENT AND PROGRAM ANALYST](https://www.usajobs.gov:443/job/839976900) | Washington Navy Yard, District of Columbia | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839976900) |
 | [FINANCIAL MANAGEMENT ANALYST](https://www.usajobs.gov:443/job/839985500) | Patuxent River, Maryland | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839985500) |
 | [Management and Program Analyst (Facilities Management)](https://www.usajobs.gov:443/job/839215500) | Washington, District of Columbia | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/job/839215500) |
-| [Program Analyst (Community Recreation)](https://www.usajobs.gov:443/job/839358100) | Millington, Tennessee | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839358100) |
 | [Junior Technology Partner](https://www.usajobs.gov:443/job/839633300) | Washington, District of Columbia | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839633300) |
 | [IT Project Manager (APPSW)](https://www.usajobs.gov:443/job/839716900) | Multiple Locations | 2025-07-06 | [Apply Here](https://www.usajobs.gov:443/job/839716900) |
 | [MARKETING TECHNICIAN NF3](https://www.usajobs.gov:443/job/839778200) | Twentynine Palms, California | 2025-07-21 | [Apply Here](https://www.usajobs.gov:443/job/839778200) |
@@ -552,10 +549,11 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Chief of Quality, Safety and Value (RN)](https://www.usajobs.gov:443/job/834748500) | East Orange, New Jersey | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/834748500) |
 | [Associate Chief Nurse](https://www.usajobs.gov:443/job/837368100) | Oklahoma City, Oklahoma | 2025-07-31 | [Apply Here](https://www.usajobs.gov:443/job/837368100) |
 | [Registered Nurse-Associate Director for Patient Care Services](https://www.usajobs.gov:443/job/839490900) | West Haven, Connecticut | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/job/839490900) |
+| [NCCPAC Revenue Utilization Review (RUR) Registered Nurse](https://www.usajobs.gov:443/job/839870200) | Middleton, Wisconsin | 2025-07-16 | [Apply Here](https://www.usajobs.gov:443/job/839870200) |
+| [Physician (Infectious Disease)](https://www.usajobs.gov:443/job/836257200) | Johnson City, Tennessee | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/job/836257200) |
 | [Registered Nurse (Chief Nurse - Surgical Procedural Interventional Services)](https://www.usajobs.gov:443/job/839653900) | Palo Alto, California | 2025-07-21 | [Apply Here](https://www.usajobs.gov:443/job/839653900) |
 | [Registered Nurse - Associate Chief Nurse Perioperative Care](https://www.usajobs.gov:443/job/839781000) | Jackson, Mississippi | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839781000) |
 | [Registered Nurse (Referral Coordination Team)](https://www.usajobs.gov:443/job/839799200) | Fresno, California | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/839799200) |
-| [NCCPAC Revenue Utilization Review (RUR) Registered Nurse](https://www.usajobs.gov:443/job/839870200) | Middleton, Wisconsin | 2025-07-16 | [Apply Here](https://www.usajobs.gov:443/job/839870200) |
 | [Supply Systems Analyst](https://www.usajobs.gov:443/job/839514000) | New Cumberland Defense Logistics Center, Pennsylvania | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839514000) |
 | [FINANCIAL MANAGEMENT ANALYST](https://www.usajobs.gov:443/job/839587800) | Mechanicsburg, Pennsylvania | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839587800) |
 | [LAW ENFORCEMENT INFORMATION SYSTEMS SPECIALIST](https://www.usajobs.gov:443/job/838973700) | Swanton, Vermont | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/838973700) |
@@ -581,7 +579,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 
 | Job Title | Location | Apply By | Link |
 |-----------|----------|----------|------|
-| [Program Analyst (Community Recreation)](https://www.usajobs.gov:443/job/839358100) | Millington, Tennessee | 2025-07-05 | [Apply Here](https://www.usajobs.gov:443/job/839358100) |
 | [IT SPECIALIST (APPSW/INET)](https://www.usajobs.gov:443/job/839557400) | Boise, Idaho | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839557400) |
 | [Visual Information Specialist](https://www.usajobs.gov:443/job/839838200) | Washington, District of Columbia | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/839838200) |
 | [GRAPHIC ARTIST NF3](https://www.usajobs.gov:443/job/839858500) | Twentynine Palms, California | 2025-08-04 | [Apply Here](https://www.usajobs.gov:443/job/839858500) |
@@ -590,8 +587,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [DIGITAL MEDIA TECHNICIAN NF3](https://www.usajobs.gov:443/job/831604000) | Twentynine Palms, California | 2025-08-13 | [Apply Here](https://www.usajobs.gov:443/job/831604000) |
 | [ADMIN SPECIALIST (DIVISION DIRECTOR) NF-3](https://www.usajobs.gov:443/job/839164800) | Beaufort, South Carolina | 2025-07-06 | [Apply Here](https://www.usajobs.gov:443/job/839164800) |
 | [IT Specialist (Database Administration Software Engineer)](https://www.usajobs.gov:443/job/839955200) | District of Columbia, District of Columbia | 2025-07-16 | [Apply Here](https://www.usajobs.gov:443/job/839955200) |
-| [Acquisitions Librarian](https://www.usajobs.gov:443/job/835029500) | San Francisco, California | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/835029500) |
 | [Budget Analyst](https://www.usajobs.gov:443/job/839240000) | Orlando, Florida | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839240000) |
+| [Acquisitions Librarian](https://www.usajobs.gov:443/job/835029500) | San Francisco, California | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/835029500) |
 | [PRODUCTION BUSINESS RESOURCE COORDINATOR](https://www.usajobs.gov:443/job/839530800) | Pearl Harbor Naval Base, Oahu, Hawaii | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839530800) |
 | [FINANCIAL MANAGEMENT ANALYST](https://www.usajobs.gov:443/job/839391200) | Point Mugu, California | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839391200) |
 | [PERSONAL & PROFESSIONAL DEVELOPMENT ADVISOR NF4 (TRANSITION READINESS PROGRAM)](https://www.usajobs.gov:443/job/839978600) | Oceanside, California | 2025-07-15 | [Apply Here](https://www.usajobs.gov:443/job/839978600) |
@@ -606,6 +603,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [PROGRAM MANAGER](https://www.usajobs.gov:443/job/839555900) | Lakehurst, New Jersey | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839555900) |
 | [SUPERVISORY QUALITY ASSURANCE SPECIALIST](https://www.usajobs.gov:443/job/839763800) | Kings Bay, Georgia | 2025-07-15 | [Apply Here](https://www.usajobs.gov:443/job/839763800) |
 | [HUMAN RESOURCES SPECIALIST (CLASSIFICATION/RECRUITMENT)](https://www.usajobs.gov:443/job/839446600) | Naval Air Station Jacksonville, Florida | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839446600) |
+| [FINANCIAL MANAGEMENT ANALYST](https://www.usajobs.gov:443/job/839716300) | Annapolis, Maryland | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839716300) |
 | [Technical Services Librarian (Archives and Civics Specialist)](https://www.usajobs.gov:443/job/838252600) | Washington, District of Columbia | 2025-09-05 | [Apply Here](https://www.usajobs.gov:443/job/838252600) |
 | [Visual Information Specialist (Graphic Designer)](https://www.usajobs.gov:443/job/835546400) | Spangdahlem, Germany | 2025-07-25 | [Apply Here](https://www.usajobs.gov:443/job/835546400) |
 | [Marketing Assistant NF 03](https://www.usajobs.gov:443/job/839468600) | White Sands Missile Range, New Mexico | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839468600) |
@@ -625,8 +623,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Physician - Psychiatrist](https://www.usajobs.gov:443/job/838165400) | Anywhere in the U.S. (remote job) | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/838165400) |
 | [HUMAN RESOURCES SPECIALIST (MILITARY)](https://www.usajobs.gov:443/job/839072700) | Fresno, California | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839072700) |
 | [MANAGEMENT SUPPORT SPECIALIST](https://www.usajobs.gov:443/job/838617400) | Middletown, Pennsylvania | 2025-07-09 | [Apply Here](https://www.usajobs.gov:443/job/838617400) |
-| [MANAGEMENT SUPPORT SPECIALIST (Title 32)](https://www.usajobs.gov:443/job/839514900) | Tulsa, Oklahoma | 2025-07-29 | [Apply Here](https://www.usajobs.gov:443/job/839514900) |
 | [HUMAN RESOURCES ASSISTANT](https://www.usajobs.gov:443/job/839719700) | Grissom AFB, Indiana | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839719700) |
+| [MANAGEMENT SUPPORT SPECIALIST (Title 32)](https://www.usajobs.gov:443/job/839514900) | Tulsa, Oklahoma | 2025-07-29 | [Apply Here](https://www.usajobs.gov:443/job/839514900) |
 | [MANAGEMENT SUPPORT SPECIALIST](https://www.usajobs.gov:443/job/840081500) | McChord AFB, Washington | 2025-08-03 | [Apply Here](https://www.usajobs.gov:443/job/840081500) |
 | [HUMAN RESOURCES SPECIALIST (MILITARY)](https://www.usajobs.gov:443/job/838029500) | Springfield, Illinois | 2026-06-05 | [Apply Here](https://www.usajobs.gov:443/job/838029500) |
 | [HR SPEC (MILITARY) (Title 32)](https://www.usajobs.gov:443/job/839622100) | Fort Smith, Arkansas | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/839622100) |
@@ -650,8 +648,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Cook](https://www.usajobs.gov:443/job/838614400) | White River Junction, Vermont | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/838614400) |
 | [Cook](https://www.usajobs.gov:443/job/838614600) | White River Junction, Vermont | 2025-07-08 | [Apply Here](https://www.usajobs.gov:443/job/838614600) |
 | [Cook](https://www.usajobs.gov:443/job/839358300) | Salt Lake City, Utah | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839358300) |
-| [Nurse](https://www.usajobs.gov:443/job/767082000) | McLaughlin, South Dakota | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/767082000) |
 | [Space and Facilities Coordinator](https://www.usajobs.gov:443/job/839530500) | Detroit, Michigan | 2025-07-13 | [Apply Here](https://www.usajobs.gov:443/job/839530500) |
+| [Nurse](https://www.usajobs.gov:443/job/767082000) | McLaughlin, South Dakota | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/767082000) |
 | [Nursing Assistant (Float Pool)](https://www.usajobs.gov:443/job/837402000) | Richmond, Virginia | 2025-09-23 | [Apply Here](https://www.usajobs.gov:443/job/837402000) |
 | [Nursing Assistant (Inpatient and Emergency Nursing Services)](https://www.usajobs.gov:443/job/839490700) | Kansas City, Missouri | 2025-07-10 | [Apply Here](https://www.usajobs.gov:443/job/839490700) |
 | [Nursing Assistant](https://www.usajobs.gov:443/job/769825400) | Red Lake, Minnesota | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/769825400) |
@@ -701,19 +699,19 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Staff Psychologist (MH&BSS)](https://www.usajobs.gov:443/job/839834200) | Port Charlotte, Florida | 2025-07-18 | [Apply Here](https://www.usajobs.gov:443/job/839834200) |
 | [Student Trainee](https://www.usajobs.gov:443/job/807586700) | Multiple Locations | 2025-08-31 | [Apply Here](https://www.usajobs.gov:443/job/807586700) |
 | [Student Volunteer](https://www.usajobs.gov:443/job/827235500) | Washington, District of Columbia | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/827235500) |
-| [Student Trainee (Premier College Program)](https://www.usajobs.gov:443/job/807586900) | Multiple Locations | 2025-08-31 | [Apply Here](https://www.usajobs.gov:443/job/807586900) |
 | [Staff Psychologist (PCMHI)](https://www.usajobs.gov:443/job/838843800) | Spokane, Washington | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/838843800) |
+| [Student Trainee (Premier College Program)](https://www.usajobs.gov:443/job/807586900) | Multiple Locations | 2025-08-31 | [Apply Here](https://www.usajobs.gov:443/job/807586900) |
 | [Staff Psychologist (PCMHI)](https://www.usajobs.gov:443/job/838843900) | Spokane, Washington | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/838843900) |
 | [Clinical Psychologist - Home-Based Primary Care (HBPC)](https://www.usajobs.gov:443/job/837314300) | Erie, Pennsylvania | 2025-07-18 | [Apply Here](https://www.usajobs.gov:443/job/837314300) |
 | [Staff Psychologist](https://www.usajobs.gov:443/job/839454300) | Sioux Falls, South Dakota | 2025-09-24 | [Apply Here](https://www.usajobs.gov:443/job/839454300) |
-| [Volunteer Law Student Spring 2026](https://www.usajobs.gov:443/job/839235500) | Multiple Locations | 2025-10-03 | [Apply Here](https://www.usajobs.gov:443/job/839235500) |
 | [Fall College Intern Volunteer (Civil Division)](https://www.usajobs.gov:443/job/839689600) | Baltimore, Maryland | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839689600) |
+| [Volunteer Law Student Spring 2026](https://www.usajobs.gov:443/job/839235500) | Multiple Locations | 2025-10-03 | [Apply Here](https://www.usajobs.gov:443/job/839235500) |
 | [Psychologist (PTSD)](https://www.usajobs.gov:443/job/835353600) | Bronx, New York | 2026-04-15 | [Apply Here](https://www.usajobs.gov:443/job/835353600) |
 | [Staff Psychologist](https://www.usajobs.gov:443/job/839453200) | Sioux Falls, South Dakota | 2025-09-23 | [Apply Here](https://www.usajobs.gov:443/job/839453200) |
 | [Staff Psychologist- Outpatient Mental Health (EDRP Approved)](https://www.usajobs.gov:443/job/834710200) | Battle Creek, Michigan | 2025-07-31 | [Apply Here](https://www.usajobs.gov:443/job/834710200) |
 | [Psychologist- Inpatient Mental Health (Education Debt Repayment Incentive)](https://www.usajobs.gov:443/job/838796500) | Battle Creek, Michigan | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/838796500) |
-| [Staff Psychologist - Trauma Recovery Specialty Team (TRuST)](https://www.usajobs.gov:443/job/839865700) | Orlando, Florida | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/job/839865700) |
 | [Psychology Program Manager - Workplace Violence Prevention Program](https://www.usajobs.gov:443/job/838887300) | Spokane, Washington | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/838887300) |
+| [Staff Psychologist - Trauma Recovery Specialty Team (TRuST)](https://www.usajobs.gov:443/job/839865700) | Orlando, Florida | 2025-07-11 | [Apply Here](https://www.usajobs.gov:443/job/839865700) |
 | [Psychology Program Manager - ICMHRS/PRRC](https://www.usajobs.gov:443/job/839618600) | West Palm Beach, Florida | 2025-07-07 | [Apply Here](https://www.usajobs.gov:443/job/839618600) |
 | [Psychologist (Chief of Psychology)](https://www.usajobs.gov:443/job/840100500) | Dayton, Ohio | 2025-07-18 | [Apply Here](https://www.usajobs.gov:443/job/840100500) |
 | [Psychology Program Manager - Workplace Violence Prevention Program](https://www.usajobs.gov:443/job/838888300) | Spokane, Washington | 2025-07-14 | [Apply Here](https://www.usajobs.gov:443/job/838888300) |
@@ -815,5 +813,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2025-07-06 01:52:17 UTC*
+*Last Updated: 2025-07-07 01:49:43 UTC*
 
