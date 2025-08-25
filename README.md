@@ -82,8 +82,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [INTELLIGENCE SPECIALIST](https://www.usajobs.gov:443/job/844007300) | Fort Meade, Maryland | 2025-09-05 | [Apply Here](https://www.usajobs.gov:443/job/844007300) |
 | [Accountant - Entry to Mid Level (Maryland)](https://www.usajobs.gov:443/job/843580500) | Fort Meade, Maryland | 2025-08-25 | [Apply Here](https://www.usajobs.gov:443/job/843580500) |
 | [Visitor Services Assistant (Seasonal)](https://www.usajobs.gov:443/job/843785000) | Springfield, Massachusetts | 2025-08-27 | [Apply Here](https://www.usajobs.gov:443/job/843785000) |
-| [HR SPEC (INFORMATION SYSTEMS/MILITARY)](https://www.usajobs.gov:443/job/836900000) | Reno, Nevada | 2026-05-12 | [Apply Here](https://www.usajobs.gov:443/job/836900000) |
 | [Work and Family Life Specialist](https://www.usajobs.gov:443/job/843427700) | Sigonella Sicily, Italy | 2025-08-28 | [Apply Here](https://www.usajobs.gov:443/job/843427700) |
+| [HR SPEC (INFORMATION SYSTEMS/MILITARY)](https://www.usajobs.gov:443/job/836900000) | Reno, Nevada | 2026-05-12 | [Apply Here](https://www.usajobs.gov:443/job/836900000) |
 | [Paralegal Specialist](https://www.usajobs.gov:443/job/843203100) | Tampa, Florida | 2025-08-25 | [Apply Here](https://www.usajobs.gov:443/job/843203100) |
 | [SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/job/843922300) | Camp Roberts, California | 2025-09-11 | [Apply Here](https://www.usajobs.gov:443/job/843922300) |
 | [SUPPLY SYSTEMS ANALYST](https://www.usajobs.gov:443/job/843743700) | Naval Air Station Patuxent River, Maryland | 2025-08-27 | [Apply Here](https://www.usajobs.gov:443/job/843743700) |
@@ -397,7 +397,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [INDUSTRIAL HYGIENIST](https://www.usajobs.gov:443/job/840355500) | Horsham, Pennsylvania | 2025-09-03 | [Apply Here](https://www.usajobs.gov:443/job/840355500) |
 | [Lock and Security Specialist (Locksmith Supervisor)](https://www.usajobs.gov:443/job/842584300) | Federal Medical Center Carswell, Texas | 2025-08-26 | [Apply Here](https://www.usajobs.gov:443/job/842584300) |
 | [Lock and Security Specialist (Locksmith Supervisor)](https://www.usajobs.gov:443/job/843258100) | Seagoville, Texas | 2025-09-04 | [Apply Here](https://www.usajobs.gov:443/job/843258100) |
-| [Industrial Hygiene Technician](https://www.usajobs.gov:443/job/843573300) | Camp Humphreys, South Korea | 2025-08-28 | [Apply Here](https://www.usajobs.gov:443/job/843573300) |
+| [Lifeguard](https://www.usajobs.gov:443/job/838532300) | Milton, Florida | 2025-09-01 | [Apply Here](https://www.usajobs.gov:443/job/838532300) |
 | [Public Notice for Aerospace Engineer (Direct Hire)](https://www.usajobs.gov:443/job/840956600) | May be filled in various FAA duty locations | 2026-07-16 | [Apply Here](https://www.usajobs.gov:443/job/840956600) |
 | [Public Notice for Aerospace Engineer (Direct Hire)](https://www.usajobs.gov:443/job/840955800) | May be filled in various FAA duty locations | 2026-07-16 | [Apply Here](https://www.usajobs.gov:443/job/840955800) |
 | [AEROSPACE ENGINEER](https://www.usajobs.gov:443/job/843121900) | Patuxent River, Maryland | 2025-08-25 | [Apply Here](https://www.usajobs.gov:443/job/843121900) |
@@ -538,7 +538,6 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Airplane Pilot](https://www.usajobs.gov:443/job/825850300) | Multiple Locations | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/825850300) |
 | [AIRPLANE PILOT](https://www.usajobs.gov:443/job/835690500) | Port Hueneme, California | 2026-04-22 | [Apply Here](https://www.usajobs.gov:443/job/835690500) |
 | [RECREATION AID](https://www.usajobs.gov:443/job/839326600) | MacDill AFB, Florida | 2025-09-22 | [Apply Here](https://www.usajobs.gov:443/job/839326600) |
-| [RECREATION AID](https://www.usajobs.gov:443/job/841395000) | Moody AFB, Georgia | 2025-08-23 | [Apply Here](https://www.usajobs.gov:443/job/841395000) |
 | [Recreation Aid](https://www.usajobs.gov:443/job/841879000) | Alconbury, United Kingdom | 2026-07-29 | [Apply Here](https://www.usajobs.gov:443/job/841879000) |
 | [RECREATION AID](https://www.usajobs.gov:443/job/842515100) | Hanscom AFB, Massachusetts | 2025-09-08 | [Apply Here](https://www.usajobs.gov:443/job/842515100) |
 | [AIRPLANE PILOT](https://www.usajobs.gov:443/job/843022400) | Dobbins AFB, Georgia | 2025-08-27 | [Apply Here](https://www.usajobs.gov:443/job/843022400) |
@@ -549,6 +548,7 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [AIRPLANE PILOT](https://www.usajobs.gov:443/job/843496500) | Belle Chasse, Louisiana | 2025-09-04 | [Apply Here](https://www.usajobs.gov:443/job/843496500) |
 | [Airplane Pilot](https://www.usajobs.gov:443/job/843612000) | Richmond, Virginia | 2025-09-02 | [Apply Here](https://www.usajobs.gov:443/job/843612000) |
 | [AIRPLANE PILOT](https://www.usajobs.gov:443/job/843691100) | Dover AFB, Delaware | 2025-08-25 | [Apply Here](https://www.usajobs.gov:443/job/843691100) |
+| [Recreation Aid](https://www.usajobs.gov:443/job/843719800) | Panama City, Florida | 2025-08-24 | [Apply Here](https://www.usajobs.gov:443/job/843719800) |
 | [Artificial Intelligence (AI) SME - DIRECT HIRE AUTHORITY](https://www.usajobs.gov:443/job/843872800) | Multiple Locations | 2025-09-30 | [Apply Here](https://www.usajobs.gov:443/job/843872800) |
 | [Supervisory Human Resources Specialist  (INFORMATION SYSTEMS)](https://www.usajobs.gov:443/job/844072700) | Multiple Locations | 2025-09-05 | [Apply Here](https://www.usajobs.gov:443/job/844072700) |
 | [Patent Examiner (Physics)](https://www.usajobs.gov:443/job/839346800) | Alexandria, Virginia | 2026-06-14 | [Apply Here](https://www.usajobs.gov:443/job/839346800) |
@@ -860,5 +860,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2025-08-24 01:48:39 UTC*
+*Last Updated: 2025-08-25 01:41:49 UTC*
 
