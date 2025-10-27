@@ -184,8 +184,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [IT SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/848667900) | Fort Meade, Maryland | 2025-10-29 | [Apply Here](https://www.usajobs.gov:443/job/848667900) |
 | [Information Technology Specialist (InfoSec)](https://www.usajobs.gov:443/job/846795900) | Washington, District of Columbia | 2026-03-20 | [Apply Here](https://www.usajobs.gov:443/job/846795900) |
 | [Information Technology Specialist (InfoSec)](https://www.usajobs.gov:443/job/846796300) | Washington, District of Columbia | 2025-10-30 | [Apply Here](https://www.usajobs.gov:443/job/846796300) |
-| [Information Technology Specialist (System Administration/Information Security)](https://www.usajobs.gov:443/job/848352800) | Fort Wainwright, Alaska | 2025-10-27 | [Apply Here](https://www.usajobs.gov:443/job/848352800) |
 | [Information Technology Specialist (Security)](https://www.usajobs.gov:443/job/848079200) | Washington, District of Columbia | 2025-10-30 | [Apply Here](https://www.usajobs.gov:443/job/848079200) |
+| [Information Technology Specialist (System Administration/Information Security)](https://www.usajobs.gov:443/job/848352800) | Fort Wainwright, Alaska | 2025-10-27 | [Apply Here](https://www.usajobs.gov:443/job/848352800) |
 | [Information Technology Specialist (Customer Support/Information Security)](https://www.usajobs.gov:443/job/848333600) | McGuire AFB, New Jersey | 2025-10-30 | [Apply Here](https://www.usajobs.gov:443/job/848333600) |
 | [Operations Support Specialist NF-04](https://www.usajobs.gov:443/job/848337200) | Texarkana, Texas | 2025-10-27 | [Apply Here](https://www.usajobs.gov:443/job/848337200) |
 | [SUPERVISORY SECURITY SPECIALIST](https://www.usajobs.gov:443/job/848557900) | Corpus Christi, Texas | 2025-10-28 | [Apply Here](https://www.usajobs.gov:443/job/848557900) |
@@ -283,8 +283,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [MECHANICAL ENGINEER](https://www.usajobs.gov:443/job/848540400) | Bangor, Washington | 2025-11-05 | [Apply Here](https://www.usajobs.gov:443/job/848540400) |
 | [Mechanical Engineer](https://www.usajobs.gov:443/job/848762300) | Bethesda, Maryland | 2025-10-29 | [Apply Here](https://www.usajobs.gov:443/job/848762300) |
 | [Healthcare Engineer](https://www.usajobs.gov:443/job/848779000) | Des Moines, Iowa | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848779000) |
-| [MECHANICAL ENGINEER](https://www.usajobs.gov:443/job/848492900) | Kings Point, New York | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848492900) |
 | [MECHANICAL ENGINEER](https://www.usajobs.gov:443/job/848412800) | Multiple Locations | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848412800) |
+| [MECHANICAL ENGINEER](https://www.usajobs.gov:443/job/848492900) | Kings Point, New York | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848492900) |
 | [NUCLEAR ENGINEER](https://www.usajobs.gov:443/job/847609000) | Bremerton, Washington | 2026-04-06 | [Apply Here](https://www.usajobs.gov:443/job/847609000) |
 | [Healthcare Engineer](https://www.usajobs.gov:443/job/848779100) | Des Moines, Iowa | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848779100) |
 | [MECHANICAL ENGINEER](https://www.usajobs.gov:443/job/848642500) | Watervliet, New York | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848642500) |
@@ -708,8 +708,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Clinical Pharmacist- Formulary Management/Prior Authorization Drug Request](https://www.usajobs.gov:443/job/848413200) | Washington, District of Columbia | 2025-10-28 | [Apply Here](https://www.usajobs.gov:443/job/848413200) |
 | [SUPPLY TECHNICIAN (TITLE 32)](https://www.usajobs.gov:443/job/825270300) | Hannibal, Missouri | 2025-12-18 | [Apply Here](https://www.usajobs.gov:443/job/825270300) |
 | [Dental Assistant](https://www.usajobs.gov:443/job/848292100) | Fort Sam Houston, Texas | 2025-10-27 | [Apply Here](https://www.usajobs.gov:443/job/848292100) |
-| [Medical Instrument Technician - Electrocardiograph (EKG)](https://www.usajobs.gov:443/job/848402200) | Cheyenne, Wyoming | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848402200) |
 | [Blind Rehabilitation Therapist - Low Vision Therapist](https://www.usajobs.gov:443/job/847519800) | Martinsburg, West Virginia | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/847519800) |
+| [Medical Instrument Technician - Electrocardiograph (EKG)](https://www.usajobs.gov:443/job/848402200) | Cheyenne, Wyoming | 2025-10-31 | [Apply Here](https://www.usajobs.gov:443/job/848402200) |
 | [Blind Rehabilitation Therapist - Low Vision Therapist](https://www.usajobs.gov:443/job/847520000) | Martinsburg, West Virginia | 2025-12-31 | [Apply Here](https://www.usajobs.gov:443/job/847520000) |
 | [Letter and Script Engraver (Bank Note) Apprentice](https://www.usajobs.gov:443/job/847990100) | Washington, District of Columbia | 2025-11-13 | [Apply Here](https://www.usajobs.gov:443/job/847990100) |
 | [Letter and Script Engraver (Bank Note) Apprentice](https://www.usajobs.gov:443/job/847990200) | Washington, District of Columbia | 2025-11-13 | [Apply Here](https://www.usajobs.gov:443/job/847990200) |
@@ -758,5 +758,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2025-10-26 01:41:37 UTC*
+*Last Updated: 2025-10-27 01:45:13 UTC*
 
