@@ -154,9 +154,9 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Supervisory IT Cybersecurity Specialist (INFOSEC)](https://www.usajobs.gov:443/job/889258200) | Washington, District of Columbia | 2026-11-02 | [Apply Here](https://www.usajobs.gov:443/job/889258200) |
 | [INFORMATION TECHNOLOGY CYBERSECURITY SPECIALIST (INFORMATION SYSTEM SECURITY MANAGER)](https://www.usajobs.gov:443/job/890559000) | Kittery, Maine | 2026-11-04 | [Apply Here](https://www.usajobs.gov:443/job/890559000) |
 | [IT CYBERSECURITY SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/889699900) | Multiple Locations | 2026-11-05 | [Apply Here](https://www.usajobs.gov:443/job/889699900) |
+| [Associate Director for CISA Central](https://www.usajobs.gov:443/job/889987100) | Washington, District of Columbia | 2026-11-05 | [Apply Here](https://www.usajobs.gov:443/job/889987100) |
 | [IT Cybersecurity Specialist (ENTARCH)](https://www.usajobs.gov:443/job/891051400) | Washington, District of Columbia | 2026-11-09 | [Apply Here](https://www.usajobs.gov:443/job/891051400) |
 | [Information Technology Cybersecurity Specialist](https://www.usajobs.gov:443/job/889557000) | Location Negotiable After Selection | 2026-11-04 | [Apply Here](https://www.usajobs.gov:443/job/889557000) |
-| [Associate Director for CISA Central](https://www.usajobs.gov:443/job/889987100) | Washington, District of Columbia | 2026-11-05 | [Apply Here](https://www.usajobs.gov:443/job/889987100) |
 | [IT CYBERSECURITY SPECIALIST (INFOSEC) TITLE 5](https://www.usajobs.gov:443/job/866957100) | Springfield, Illinois | 2027-04-28 | [Apply Here](https://www.usajobs.gov:443/job/866957100) |
 | [IT CYBERSECURITY SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/890616000) | South Burlington, Vermont | 2026-11-28 | [Apply Here](https://www.usajobs.gov:443/job/890616000) |
 | [Supervisory Cybersecurity Workforce Specialist](https://www.usajobs.gov:443/job/890425400) | Springfield, Virginia | 2026-11-02 | [Apply Here](https://www.usajobs.gov:443/job/890425400) |
@@ -169,17 +169,17 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Supervisory Information Technology Cybersecurity Specialist](https://www.usajobs.gov:443/job/889404200) | Fort Meade, Maryland | 2026-11-02 | [Apply Here](https://www.usajobs.gov:443/job/889404200) |
 | [IT CYBERSECURITY SPECIALIST (INFOSEC)](https://www.usajobs.gov:443/job/889384600) | Indianapolis, Indiana | 2026-11-04 | [Apply Here](https://www.usajobs.gov:443/job/889384600) |
 | [SUPV IT CYBERSECURITY SPECIALIST (APPSW)](https://www.usajobs.gov:443/job/889510500) | Multiple Locations | 2026-11-03 | [Apply Here](https://www.usajobs.gov:443/job/889510500) |
-| [Management and Program Analyst](https://www.usajobs.gov:443/job/890223500) | Washington, District of Columbia | 2026-11-06 | [Apply Here](https://www.usajobs.gov:443/job/890223500) |
 | [IT CYBERSECURITY SPECIALIST (INET/INFOSEC)](https://www.usajobs.gov:443/job/889512200) | Multiple Locations | 2026-11-03 | [Apply Here](https://www.usajobs.gov:443/job/889512200) |
+| [IT CYBERSECURITY SPECIALIST (SYSANALSIS)](https://www.usajobs.gov:443/job/890643900) | Yokota Air Base, Japan | 2026-11-04 | [Apply Here](https://www.usajobs.gov:443/job/890643900) |
 | [Personnel Security Specialist](https://www.usajobs.gov:443/job/879816800) | Springfield, Virginia | 2027-02-10 | [Apply Here](https://www.usajobs.gov:443/job/879816800) |
 | [Personnel Security Specialist](https://www.usajobs.gov:443/job/879818000) | Springfield, Virginia | 2027-02-10 | [Apply Here](https://www.usajobs.gov:443/job/879818000) |
 | [Security Specialist](https://www.usajobs.gov:443/job/888370800) | Washington, District of Columbia | 2027-04-07 | [Apply Here](https://www.usajobs.gov:443/job/888370800) |
 | [Senior Industrial Security Specialist](https://www.usajobs.gov:443/job/891027900) | Andover, Massachusetts | 2026-11-09 | [Apply Here](https://www.usajobs.gov:443/job/891027900) |
 | [Supervisory Personnel Security Specialist](https://www.usajobs.gov:443/job/890593000) | Washington, District of Columbia | 2026-11-03 | [Apply Here](https://www.usajobs.gov:443/job/890593000) |
 | [SECURITY SPECIALIST (Regional Mission Action Officer)](https://www.usajobs.gov:443/job/890615600) | Multiple Locations | 2026-11-09 | [Apply Here](https://www.usajobs.gov:443/job/890615600) |
-| [SECURITY SPECIALIST](https://www.usajobs.gov:443/job/890617500) | Fort McNair, District of Columbia | 2026-11-12 | [Apply Here](https://www.usajobs.gov:443/job/890617500) |
-| [SUPERVISORY INDUSTRIAL SECURITY SPECIALIST (CHIEF OF OPERATIONS)](https://www.usajobs.gov:443/job/891107500) | Stafford, Virginia | 2026-11-10 | [Apply Here](https://www.usajobs.gov:443/job/891107500) |
 | [Assistant Federal Security Director for Inspection](https://www.usajobs.gov:443/job/890014800) | Queens, New York | 2026-11-06 | [Apply Here](https://www.usajobs.gov:443/job/890014800) |
+| [SUPERVISORY INDUSTRIAL SECURITY SPECIALIST (CHIEF OF OPERATIONS)](https://www.usajobs.gov:443/job/891107500) | Stafford, Virginia | 2026-11-10 | [Apply Here](https://www.usajobs.gov:443/job/891107500) |
+| [SECURITY SPECIALIST](https://www.usajobs.gov:443/job/890617500) | Fort McNair, District of Columbia | 2026-11-12 | [Apply Here](https://www.usajobs.gov:443/job/890617500) |
 | [SECURITY SPECIALIST](https://www.usajobs.gov:443/job/890617400) | Fort McNair, District of Columbia | 2026-11-12 | [Apply Here](https://www.usajobs.gov:443/job/890617400) |
 | [Personnel Security Specialist](https://www.usajobs.gov:443/job/890315100) | Washington, District of Columbia | 2026-11-09 | [Apply Here](https://www.usajobs.gov:443/job/890315100) |
 | [Information Security Specialist](https://www.usajobs.gov:443/job/890308800) | Alexandria, Virginia | 2026-11-02 | [Apply Here](https://www.usajobs.gov:443/job/890308800) |
@@ -194,8 +194,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Physical Security Specialist (Project Manager)](https://www.usajobs.gov:443/job/890841500) | Pentagon, Arlington, Virginia | 2026-11-03 | [Apply Here](https://www.usajobs.gov:443/job/890841500) |
 | [Personnel Security Division Director](https://www.usajobs.gov:443/job/889948600) | Multiple Locations | 2026-11-05 | [Apply Here](https://www.usajobs.gov:443/job/889948600) |
 | [Supervisory Security Specialist (Security Testing and Mitigation Manager)](https://www.usajobs.gov:443/job/890488100) | Washington, District of Columbia | 2026-11-12 | [Apply Here](https://www.usajobs.gov:443/job/890488100) |
-| [Security Guard](https://www.usajobs.gov:443/job/888232100) | Tooele Army Depot, Utah | 2026-11-09 | [Apply Here](https://www.usajobs.gov:443/job/888232100) |
 | [Master Transportation Security Officer - Security Training Instructor](https://www.usajobs.gov:443/job/889275500) | Hebron, Kentucky | 2026-11-02 | [Apply Here](https://www.usajobs.gov:443/job/889275500) |
+| [Master Transportation Security Officer-Security Training Instructor](https://www.usajobs.gov:443/job/890655600) | San Jose, California | 2026-11-09 | [Apply Here](https://www.usajobs.gov:443/job/890655600) |
 | [Lead Information Security Specialist](https://www.usajobs.gov:443/job/889487400) | Falls Church, Virginia | 2026-11-03 | [Apply Here](https://www.usajobs.gov:443/job/889487400) |
 | [IT Specialist (INFOSEC)](https://www.usajobs.gov:443/job/890903700) | Washington, District of Columbia | 2026-11-06 | [Apply Here](https://www.usajobs.gov:443/job/890903700) |
 | [IT SPEC (INFOSEC)](https://www.usajobs.gov:443/job/890511100) | Camp Murray, Washington | 2026-11-26 | [Apply Here](https://www.usajobs.gov:443/job/890511100) |
@@ -892,8 +892,8 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 | [Student Trainee](https://www.usajobs.gov:443/job/890245300) | Santa Ana, California | 2026-11-18 | [Apply Here](https://www.usajobs.gov:443/job/890245300) |
 | [Student Trainee](https://www.usajobs.gov:443/job/890247200) | Riverside, California | 2026-11-18 | [Apply Here](https://www.usajobs.gov:443/job/890247200) |
 | [Student Trainee](https://www.usajobs.gov:443/job/890244400) | Los Angeles, California | 2026-11-18 | [Apply Here](https://www.usajobs.gov:443/job/890244400) |
-| [Student Trainee (Soil Science)](https://www.usajobs.gov:443/job/889227600) | Owensboro, Kentucky | 2026-11-17 | [Apply Here](https://www.usajobs.gov:443/job/889227600) |
 | [GENERAL STUDENT TRAINEE (CONTRACTS)](https://www.usajobs.gov:443/job/888554800) | Chantilly, Virginia | 2026-11-12 | [Apply Here](https://www.usajobs.gov:443/job/888554800) |
+| [Student Trainee (Soil Science)](https://www.usajobs.gov:443/job/889227600) | Owensboro, Kentucky | 2026-11-17 | [Apply Here](https://www.usajobs.gov:443/job/889227600) |
 | [Economics (Student Trainee)](https://www.usajobs.gov:443/job/889896000) | Anywhere in the U.S. (remote job) | 2026-11-05 | [Apply Here](https://www.usajobs.gov:443/job/889896000) |
 | [Economics (Student Trainee)](https://www.usajobs.gov:443/job/889896400) | Anywhere in the U.S. (remote job) | 2026-11-05 | [Apply Here](https://www.usajobs.gov:443/job/889896400) |
 | [GENERAL STUDENT TRAINEE (TECHNICAL)](https://www.usajobs.gov:443/job/888552000) | Multiple Locations | 2026-11-12 | [Apply Here](https://www.usajobs.gov:443/job/888552000) |
@@ -953,5 +953,5 @@ Welcome to the USAJobs listings page! Here you will find the most recent federal
 - Click on the job title link to view more details and apply.
 - Ensure your resume and cover letter are updated.
 
-*Last Updated: 2026-11-01 04:47:18 UTC*
+*Last Updated: 2026-11-02 04:48:54 UTC*
 
